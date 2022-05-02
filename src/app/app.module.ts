@@ -12,6 +12,7 @@ import { HemComponent } from './pages/hem/hem.component';
 import { KontaktComponent } from './pages/kontakt/kontakt.component';
 import { KyrkanComponent } from './pages/kyrkan/kyrkan.component';
 import { SamfallighetComponent } from './pages/samfallighet/samfallighet.component';
+import { PostsComponent } from './pages/posts/posts.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { SamfallighetComponent } from './pages/samfallighet/samfallighet.compone
     KyrkanComponent,
     SamfallighetComponent,
     HemComponent,
-    FooterComponent
+    FooterComponent,
+    PostsComponent
   ],
   imports: [
     BrowserModule,
