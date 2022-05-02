@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HemComponent } from './hem/hem.component';
-import { KontaktComponent } from './kontakt/kontakt.component';
-import { KyrkanComponent } from './kyrkan/kyrkan.component';
-import { SamfallighetComponent } from './samfallighet/samfallighet.component';
+import { HemComponent } from './pages/hem/hem.component';
+import { KontaktComponent } from './pages/kontakt/kontakt.component';
+import { KyrkanComponent } from './pages/kyrkan/kyrkan.component';
+import { SamfallighetComponent } from './pages/samfallighet/samfallighet.component';
 
 const routes: Routes = [
   {
