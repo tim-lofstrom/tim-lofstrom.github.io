@@ -1,5 +1,5 @@
-import { HttpClient } from '@angular/common/http';
-import { NgModule } from '@angular/core';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { NgModule, SecurityContext } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { MarkdownModule } from 'ngx-markdown';
 
@@ -27,6 +27,7 @@ import { SamfallighetComponent } from './samfallighet/samfallighet.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HttpClientModule,
     MarkdownModule.forRoot({ loader: HttpClient })
   ],
   providers: [],
