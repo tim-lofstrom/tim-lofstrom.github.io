@@ -10,7 +10,7 @@ export class PostsComponent implements OnInit {
 
   name: string | null = null;
 
-  constructor(private route: ActivatedRoute, private router: Router) { }
+  constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
     this.name = this.route.snapshot.paramMap.get('name');

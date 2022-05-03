@@ -7,31 +7,31 @@ import { PostsComponent } from './pages/posts/posts.component';
 import { SamfallighetComponent } from './pages/samfallighet/samfallighet.component';
 
 const routes: Routes = [
-  {
-      path: '',
-      component: HemComponent
-  },
-  {
-      path: 'samfallighet',
-      component: SamfallighetComponent
-  },
-  {
-      path: 'kyrkan',
-      component: KyrkanComponent
-  },
-  {
-      path: 'kontakt',
-      component: KontaktComponent
-  },
-  {
-    path: 'posts/:name',
-    component: PostsComponent
-}
+    {
+        path: '',
+        component: HemComponent
+    },
+    {
+        path: 'samfallighet',
+        component: SamfallighetComponent
+    },
+    {
+        path: 'kyrkan',
+        component: KyrkanComponent
+    },
+    {
+        path: 'kontakt',
+        component: KontaktComponent
+    },
+    {
+        path: 'posts/:name',
+        component: PostsComponent
+    }
 ];
 
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+    imports: [RouterModule.forRoot(routes)],
+    exports: [RouterModule]
 })
 export class AppRoutingModule { }
