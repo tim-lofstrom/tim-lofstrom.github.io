@@ -1,14 +1,16 @@
 <div class="container px-4 px-lg-5">
     <div class="row gx-4 gx-lg-5 justify-content-center">
         <div class="col-md-10 col-lg-8 col-xl-7">
-            <!-- Post preview-->
-            <div class="post-preview">
-                <a href="/">
-                    <h2 class="post-title">Samfällighet</h2>
-                    <h3 class="post-subtitle">Samfällighetsidan</h3>
-                </a>
-                <br>
-            </div>
+            <markdown ngPreserveWhitespaces>
+                # Oslättfors Samfällighet
+
+                Här finns information gällande samfälligheten i Oslättfors by.
+            </markdown>
+
+            <app-post-preview [link]="'/posts/Stämma 2019'" [title]="'Stämma 2019'"
+            [subTitle]="'Årsstämma för Oslättfors Samfällighet för året 2019'" [postedBy]="'Tim Löfström'"
+            [date]="'den 3 maj, 2022'"></app-post-preview>
+
         </div>
     </div>
 </div>

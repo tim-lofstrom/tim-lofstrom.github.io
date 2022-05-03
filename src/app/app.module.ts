@@ -1,5 +1,5 @@
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { NgModule, SecurityContext } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { MarkdownModule } from 'ngx-markdown';
 
@@ -13,6 +13,7 @@ import { KontaktComponent } from './pages/kontakt/kontakt.component';
 import { KyrkanComponent } from './pages/kyrkan/kyrkan.component';
 import { SamfallighetComponent } from './pages/samfallighet/samfallighet.component';
 import { PostsComponent } from './pages/posts/posts.component';
+import { PostPreviewComponent } from './components/post-preview/post-preview.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { PostsComponent } from './pages/posts/posts.component';
     SamfallighetComponent,
     HemComponent,
     FooterComponent,
-    PostsComponent
+    PostsComponent,
+    PostPreviewComponent
   ],
   imports: [
     BrowserModule,
