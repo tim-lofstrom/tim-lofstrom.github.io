@@ -21,7 +21,7 @@ export class NavbarComponent implements OnInit {
 
   navigate(url: string){
     this.showNavbar = false;
-    this.router.navigateByUrl(url);
+    this.router.navigate([url])
   }
 
 }
