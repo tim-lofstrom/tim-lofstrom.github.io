@@ -2,6 +2,7 @@
 name: Tim Löfström
 title: Stämma 2019
 subtitle: Årsstämma för Oslättfors Samfällighet för året 2019
+page: samfallighet
 ---
 
 # Årmötesprotokoll från år 2019
