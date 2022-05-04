@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { map, Observable } from 'rxjs';
 import { loadFront } from 'yaml-front-matter';
+
 @Component({
   selector: 'app-posts',
   templateUrl: './posts.component.html',
