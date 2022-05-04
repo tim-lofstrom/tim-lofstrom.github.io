@@ -1,8 +1,7 @@
-import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { map, Observable } from 'rxjs';
+import { filter, map, Observable } from 'rxjs';
 import { Post } from 'src/app/model/post';
-import { PostsService } from 'src/app/service/posts.service';
+import { StateService } from 'src/app/service/state.service';
 
 
 @Component({
@@ -12,10 +11,14 @@ import { PostsService } from 'src/app/service/posts.service';
 })
 export class HemComponent implements OnInit {
 
-  constructor(private postsService: PostsService) { }
+  page = 'hem';
 
-  ngOnInit(): void { 
-    this.postsService.loadAllPosts();
+  posts$: Observable<Post[]> | undefined;
+
+  constructor(private stateService: StateService) { }
+
+  ngOnInit(): void {
+    this.posts$ = this.stateService.posts?.pipe(map(item => item.filter(post => post.page.includes(this.page))));
   }
 
 }

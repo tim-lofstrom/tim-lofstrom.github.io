@@ -1,8 +1,8 @@
 <div class="container px-4 px-lg-5">
     <div class="row gx-4 gx-lg-5 justify-content-center">
         <div class="col-md-10 col-lg-8 col-xl-7">
-            <app-post-preview [link]="'/posts/Ny Hemsida'" [title]="'Ny hemsida'"
-                [subTitle]="'Oslättfors har just nu en ny hemsida som är under uppbyggnad'" [postedBy]="'Tim Löfström'"
+            <app-post-preview *ngFor="let post of posts$ | async" [link]="'/posts/' + post.title" [title]="post.title"
+                [subTitle]="post.subtitle" [postedBy]="post.name"
                 [date]="'den 26 april, 2022'"></app-post-preview>
         </div>
     </div>
