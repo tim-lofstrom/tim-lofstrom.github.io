@@ -3,5 +3,6 @@ export interface Post {
     title: string,
     subtitle: string,
     page: string,
-    file: string
+    file: string,
+    date: string
 }

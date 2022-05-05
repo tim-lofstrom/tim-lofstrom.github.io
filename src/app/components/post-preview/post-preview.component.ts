@@ -1,4 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { map, Observable } from 'rxjs';
+import { Post } from 'src/app/model/post';
+import { StateService } from 'src/app/service/state.service';
 
 @Component({
   selector: 'app-post-preview',
@@ -7,15 +10,13 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class PostPreviewComponent implements OnInit {
 
-  @Input() link: String | undefined;
-  @Input() title: String | undefined;
-  @Input() subTitle: String | undefined;
-  @Input() postedBy: String | undefined;
-  @Input() date: String | undefined;
+  @Input() page: string = "";
+  posts$: Observable<Post[]> | undefined;
 
-  constructor() { }
+  constructor(private stateService: StateService) { }
 
   ngOnInit(): void {
+    this.posts$ = this.stateService.posts?.pipe(map(item => item.filter(post => post.page.includes(this.page))));
   }
 
 }

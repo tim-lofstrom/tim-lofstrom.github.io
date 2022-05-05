@@ -14,6 +14,7 @@ function getMetaData(data, file) {
         title: data.title,
         subtitle: data.subtitle,
         page: data.page,
+        date: data.date,
         file: file
     };
 }

@@ -12,12 +12,9 @@ export class SamfallighetComponent implements OnInit {
 
   page = 'samfallighet';
 
-  posts$: Observable<Post[]> | undefined;
-
-  constructor(private stateService: StateService) { }
+  constructor() { }
 
   ngOnInit(): void {
-    this.posts$ = this.stateService.posts?.pipe(map(item => item.filter(post => post.page.includes(this.page))));
   }
 
 }

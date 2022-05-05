@@ -1,11 +1,11 @@
-<div class="post-preview">
-    <a routerLink="{{link}}">
-        <h2 class="post-title">{{title}}</h2>
-        <h3 class="post-subtitle">{{subTitle}}</h3>
+<div class="post-preview" *ngFor="let post of posts$ | async">
+    <a routerLink="{{'/posts/' + post.title}}">
+        <h2 class="post-title">{{post.title}}</h2>
+        <h3 class="post-subtitle">{{post.subtitle}}</h3>
     </a>
     <p class="post-meta">
         Postat av
-        <a routerLink="/">{{postedBy}}</a>
-        {{date}}
+        <a routerLink="/">{{post.name}}</a>
+        {{post.date}}
     </p>
 </div>
