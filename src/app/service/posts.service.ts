@@ -10,12 +10,11 @@ import { Post } from '../model/post';
 export class PostsService {
 
   postPath = 'assets/posts/';
-  extension = '.md';
 
   constructor(private http: HttpClient) { }
 
   public loadPost(name: string): Observable<string> {
-    const post = this.postPath + name + this.extension;
+    const post = this.postPath + name;
     const response$ = this.http.get(post, { responseType: 'text' });
     return response$.pipe(map(item => loadFront(item).__content));
   }
