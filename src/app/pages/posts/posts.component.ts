@@ -23,6 +23,15 @@ export class PostsComponent implements OnInit {
 
   ngOnInit(): void {
 
+    this.http.get('/assets/posts/a.md', { responseType: 'text' }).toPromise().then(i => console.log(i));
+    this.http.get('assets/posts/a.md', { responseType: 'text' }).toPromise().then(i => console.log(i));
+
+    this.http.get('/assets/posts/b', { responseType: 'text' }).toPromise().then(i => console.log(i));
+    this.http.get('assets/posts/b', { responseType: 'text' }).toPromise().then(i => console.log(i));
+
+    this.http.get('/assets/c.md', { responseType: 'text' }).toPromise().then(i => console.log(i));
+    this.http.get('assets/c.md', { responseType: 'text' }).toPromise().then(i => console.log(i));
+
     const name = this.route.snapshot.paramMap.get('name');
 
     if (name) {
