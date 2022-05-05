@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { flatMap, map, mergeMap, Observable } from 'rxjs';
 import { Post } from 'src/app/model/post';
+import { PostsService } from 'src/app/service/posts.service';
 import { StateService } from 'src/app/service/state.service';
 import { loadFront } from 'yaml-front-matter';
 
@@ -15,7 +16,10 @@ export class PostsComponent implements OnInit {
 
   content$: Observable<string> | undefined;
 
-  constructor(private route: ActivatedRoute, private http: HttpClient, private stateService: StateService) { }
+  constructor(private route: ActivatedRoute,
+    private http: HttpClient,
+    private stateService: StateService,
+    private postService: PostsService) { }
 
   ngOnInit(): void {
 
@@ -23,7 +27,7 @@ export class PostsComponent implements OnInit {
 
     if (name) {
       const fileName = this.stateService.posts?.pipe(map(item => this.filterFilename(item, name)));
-      this.content$ = fileName?.pipe(mergeMap(file => this.loadContent(file)));
+      this.content$ = fileName?.pipe(mergeMap(file => this.postService.loadPost(file)));
     }
 
   }
@@ -32,12 +36,6 @@ export class PostsComponent implements OnInit {
     return item.filter(post => (post as Post).title.includes(name))
       .flatMap(post => post.file)
       .reduce(file => file);
-  }
-
-  loadContent(file: string) {
-    const post = 'assets/posts/' + file;
-    const response$ = this.http.get(post, { responseType: 'text' });
-    return response$.pipe(map(item => loadFront(item).__content));
   }
 
 }

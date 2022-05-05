@@ -15,12 +15,16 @@ export class PostsService {
 
   public loadPost(name: string): Observable<string> {
     const post = this.postPath + name;
+    console.log(post);
+    
     const response$ = this.http.get(post, { responseType: 'text' });
     return response$.pipe(map(item => loadFront(item).__content));
   }
 
   public loadAllPosts(): Observable<Post[]> {
     const posts = 'assets/posts.json';
+    console.log(posts);
+    
     return this.http.get(posts, { responseType: 'json' }).pipe(map(item => item as Post[]));
   }
 
