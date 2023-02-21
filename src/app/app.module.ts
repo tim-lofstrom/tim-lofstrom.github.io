@@ -8,22 +8,20 @@ import { AppComponent } from './app.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HeaderComponent } from './components/header/header.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
-import { HemComponent } from './pages/hem/hem.component';
 import { KontaktComponent } from './pages/kontakt/kontakt.component';
-import { KyrkanComponent } from './pages/kyrkan/kyrkan.component';
 import { SamfallighetComponent } from './pages/samfallighet/samfallighet.component';
 import { PostsComponent } from './pages/posts/posts.component';
 import { PostPreviewComponent } from './components/post-preview/post-preview.component';
+import { PageComponent } from './pages/page/page.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     KontaktComponent,
     NavbarComponent,
+    PageComponent,
     HeaderComponent,
-    KyrkanComponent,
     SamfallighetComponent,
-    HemComponent,
     FooterComponent,
     PostsComponent,
     PostPreviewComponent

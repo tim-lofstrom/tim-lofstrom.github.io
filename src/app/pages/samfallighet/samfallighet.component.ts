@@ -6,7 +6,6 @@ import { StateService } from 'src/app/service/state.service';
 @Component({
   selector: 'app-samfallighet',
   templateUrl: './samfallighet.component.html',
-  styleUrls: ['./samfallighet.component.css']
 })
 export class SamfallighetComponent implements OnInit {
 

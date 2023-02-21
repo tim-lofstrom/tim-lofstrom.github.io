@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { filter, map, Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 import { loadFront } from 'yaml-front-matter';
 import { Post } from '../model/post';
 
@@ -13,18 +13,14 @@ export class PostsService {
 
   constructor(private http: HttpClient) { }
 
-  public loadPost(name: string): Observable<string> {
+  public loadPostContent(name: string): Observable<string> {
     const post = this.postPath + name;
-    console.log(post);
-    
     const response$ = this.http.get(post, { responseType: 'text' });
     return response$.pipe(map(item => loadFront(item).__content));
   }
 
-  public loadAllPosts(): Observable<Post[]> {
+  public loadAllPostsMetadata(): Observable<Post[]> {
     const posts = 'assets/posts.json';
-    console.log(posts);
-    
     return this.http.get(posts, { responseType: 'json' }).pipe(map(item => item as Post[]));
   }
 
