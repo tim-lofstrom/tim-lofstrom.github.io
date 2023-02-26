@@ -5,6 +5,10 @@ import { PostsComponent } from './pages/posts/posts.component';
 
 const routes: Routes = [
     {
+        path: '',
+        component: PageComponent
+    },
+    {
         path: ':page',
         component: PageComponent
     },

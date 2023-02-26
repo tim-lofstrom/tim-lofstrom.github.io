@@ -3,14 +3,14 @@ import { Injectable } from '@angular/core';
 import { map, Observable } from 'rxjs';
 import { loadFront } from 'yaml-front-matter';
 import { Index } from '../model';
-import { Post } from '../model/post';
+import { Page } from '../model/page';
 
 @Injectable({
   providedIn: 'root'
 })
-export class PostsService {
+export class PagesService {
 
-  postPath = 'assets/posts/';
+  postPath = 'assets/pages/';
 
   constructor(private http: HttpClient) { }
 
@@ -20,9 +20,9 @@ export class PostsService {
     return response$.pipe(map(item => loadFront(item).__content));
   }
 
-  public loadAllPostsMetadata(): Observable<Post[]> {
+  public loadAllPagesMetadata(): Observable<Page[]> {
     const posts = 'assets/index.json';
-    return this.http.get(posts, { responseType: 'json' }).pipe(map(item => (item as Index).posts));
+    return this.http.get(posts, { responseType: 'json' }).pipe(map(item => (item as Index).pages));
   }
 
 }

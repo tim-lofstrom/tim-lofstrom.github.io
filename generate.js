@@ -8,7 +8,7 @@ function getFrontMatter(path, directoryPath, file) {
     return yamlFront.loadFront(fileContents);
 }
 
-function getMetaData(data, file) {
+function getPostsMetaData(data, file) {
     return {
         name: data.name,
         title: data.title,
@@ -19,14 +19,35 @@ function getMetaData(data, file) {
     };
 }
 
-const directoryPath = path.join(__dirname, 'src', 'assets', 'posts');
-const files = fs.readdirSync(directoryPath);
+function getPagesMetaData(data, file) {
+    return {
+        title: data.title,
+        page: data.page,
+    };
+}
+
+const postsDirectory = path.join(__dirname, 'src', 'assets', 'posts');
+const postsFiles = fs.readdirSync(postsDirectory);
+
+const pagesDirectory = path.join(__dirname, 'src', 'assets', 'pages');
+const pagesFiles = fs.readdirSync(pagesDirectory);
 
 
-const data = files.map(file => {
-    const data = getFrontMatter(path, directoryPath, file);
-    return getMetaData(data, file);
+const postsData = postsFiles.map(file => {
+    const data = getFrontMatter(path, postsDirectory, file);
+    return getPostsMetaData(data, file);
 });
 
+const pagesData = pagesFiles.map(file => {
+    const data = getFrontMatter(path, pagesDirectory, file);
+    return getPagesMetaData(data, file);
+});
+
+const data = {
+    posts: postsData,
+    pages: pagesData
+}
+
 const jsonData = JSON.stringify(data);
-fs.writeFileSync('src/assets/posts.json', jsonData);
+
+fs.writeFileSync('src/assets/index.json', jsonData);
