@@ -14,7 +14,7 @@ export class PagesService {
 
   constructor(private http: HttpClient) { }
 
-  public loadPostContent(name: string): Observable<string> {
+  public loadPageContent(name: string): Observable<string> {
     const post = this.postPath + name;
     const response$ = this.http.get(post, { responseType: 'text' });
     return response$.pipe(map(item => loadFront(item).__content));

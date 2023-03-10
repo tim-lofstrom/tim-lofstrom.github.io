@@ -19,6 +19,7 @@ export class PostsService {
     const response$ = this.http.get(post, { responseType: 'text' });
     return response$.pipe(map(item => loadFront(item).__content));
   }
+  
 
   public loadAllPostsMetadata(): Observable<Post[]> {
     const posts = 'assets/index.json';

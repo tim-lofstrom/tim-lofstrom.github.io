@@ -23,6 +23,7 @@ function getPagesMetaData(data, file) {
     return {
         title: data.title,
         page: data.page,
+        file: file
     };
 }
 

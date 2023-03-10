@@ -2,13 +2,11 @@
     <div class="row gx-4 gx-lg-5 justify-content-center">
 
 
-        <!-- <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="col-md-10 col-lg-8 col-xl-7" *ngIf="content$ | async as content">
             <markdown ngPreserveWhitespaces>
-                # Oslättfors Samfällighet
-
-                Här finns information gällande samfälligheten i Oslättfors by.
+                {{content}}
             </markdown>
-        </div> -->
+        </div>
 
         <div class="col-md-10 col-lg-8 col-xl-7">
             <app-post-preview *ngIf="page$ | async as page" [page]="page" [posts]="posts$ | async"></app-post-preview>
