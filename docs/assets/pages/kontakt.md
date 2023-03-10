@@ -20,7 +20,7 @@ Tim Löfström\
 Anders Persson
 
 **Ledamot**\
-Daniel Nilsson
+Daniel Nilsson\
 `nutte80@hotmail.com`
 
 **Suppleant**\
