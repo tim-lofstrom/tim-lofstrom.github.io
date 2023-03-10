@@ -6,23 +6,23 @@ import { Index } from '../model';
 import { Page } from '../model/page';
 
 @Injectable({
-  providedIn: 'root'
+	providedIn: 'root'
 })
 export class PagesService {
 
-  postPath = 'assets/pages/';
+	postPath = 'assets/pages/';
 
-  constructor(private http: HttpClient) { }
+	constructor(private http: HttpClient) { }
 
-  public loadPageContent(name: string): Observable<string> {
-    const post = this.postPath + name;
-    const response$ = this.http.get(post, { responseType: 'text' });
-    return response$.pipe(map(item => loadFront(item).__content));
-  }
+	public loadPageContent(name: string): Observable<string> {
+		const post = this.postPath + name;
+		const response$ = this.http.get(post, { responseType: 'text' });
+		return response$.pipe(map(item => loadFront(item).__content));
+	}
 
-  public loadAllPagesMetadata(): Observable<Page[]> {
-    const posts = 'assets/index.json';
-    return this.http.get(posts, { responseType: 'json' }).pipe(map(item => (item as Index).pages));
-  }
+	public loadAllPagesMetadata(): Observable<Page[]> {
+		const posts = 'assets/index.json';
+		return this.http.get(posts, { responseType: 'json' }).pipe(map(item => (item as Index).pages));
+	}
 
 }

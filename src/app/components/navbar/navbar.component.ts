@@ -2,37 +2,33 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { map, Observable } from 'rxjs';
 import { Page } from 'src/app/model/page';
-import { Post } from 'src/app/model/post';
 import { StateService } from 'src/app/service/state.service';
 
 @Component({
-  selector: 'app-navbar',
-  templateUrl: './navbar.component.html',
+	selector: 'app-navbar',
+	templateUrl: './navbar.component.html',
 })
 export class NavbarComponent implements OnInit {
 
-  showNavbar: boolean = false;
-  pageNames$: Observable<String[]> | undefined;
-  pages$: Observable<Page[]> | undefined;
+	showNavbar: boolean = false;
+	pageNames$: Observable<String[]> | undefined;
+	pages$: Observable<Page[]> | undefined;
 
-  constructor(private readonly router: Router, private readonly stateService: StateService) { }
+	constructor(private readonly router: Router, private readonly stateService: StateService) { }
 
-  ngOnInit(): void {
-    // this.pageNames$ = this.stateService.posts?.pipe(map(item => this.pagenName(item)))
-    this.pages$ = this.stateService.pages;
-  }
+	ngOnInit(): void {
+		this.pages$ = this.stateService.pages?.pipe(
+			map(pages => pages.filter(page => !page.page.includes('index'))),
+			map(item => item.sort((a, b) => b.page.localeCompare(a.page))));
+	}
 
-  // pagenName(item: Post[]) {
-  //   return item.flatMap(post => post.page);
-  // }
+	toggle() {
+		this.showNavbar = !this.showNavbar;
+	}
 
-  toggle() {
-    this.showNavbar = !this.showNavbar;
-  }
-
-  navigate(url: String) {
-    this.showNavbar = false;
-    this.router.navigate([url])
-  }
+	navigate(url: String) {
+		this.showNavbar = false;
+		this.router.navigate([url])
+	}
 
 }

@@ -3,7 +3,7 @@ name: Tim Löfström
 title: Stämma 2019
 subtitle: Årsstämma för Oslättfors Samfällighet för året 2019
 date: den 26 april, 2022
-page: samfallighet
+page: stammor
 ---
 
 # Årmötesprotokoll från år 2019

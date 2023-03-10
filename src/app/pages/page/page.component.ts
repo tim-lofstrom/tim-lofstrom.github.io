@@ -17,17 +17,23 @@ export class PageComponent implements OnInit {
   posts$: Observable<Post[]> | undefined;
   pages$: Observable<Page[]> | undefined;
 
-  constructor(private route: ActivatedRoute, private stateService: StateService, private pagesService: PagesService) { }
+  constructor(private route: ActivatedRoute, private stateService: StateService, private pagesService: PagesService) { 
+  }
 
   ngOnInit(): void {
     this.page$ = this.route.params.pipe(map(item => item['page']));
     this.posts$ = this.stateService.posts;
     this.pages$ = this.stateService.pages;
-    const fileName = this.pages$?.pipe(combineLatestWith(this.page$), map(([pages, page]) => this.filterFilename(pages, page)));
-    this.content$ = fileName?.pipe(mergeMap(file => this.pagesService.loadPageContent(file)));
+    const fileName = this.page$?.pipe(combineLatestWith(this.pages$!), map(([page, pages]) => this.filterFilename(pages, page)));
+    this.content$ = fileName?.pipe(mergeMap(file => this.pagesService.loadPageContent(file)))
   }
 
   filterFilename(item: Page[], name: string) {
+
+	if (name === undefined) {
+		name = 'index';
+	}
+
     return item.filter(page => (page as Page).page.includes(name))
       .map(page => page.file)
       .reduce(file => file);
