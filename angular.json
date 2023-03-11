@@ -6,7 +6,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "oslattfors": {
+    "gastrikekk": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -28,7 +28,8 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/CNAME"
+              "src/CNAME",
+			  "src/.nojekyll"
             ],
             "styles": [
               "src/styles.css"
@@ -72,10 +73,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "oslattfors:build:production"
+              "browserTarget": "gastrikekk:build:production"
             },
             "development": {
-              "browserTarget": "oslattfors:build:development"
+              "browserTarget": "gastrikekk:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +84,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "oslattfors:build"
+            "browserTarget": "gastrikekk:build"
           }
         },
         "test": {
@@ -106,5 +107,5 @@
       }
     }
   },
-  "defaultProject": "oslattfors"
+  "defaultProject": "gastrikekk"
 }
