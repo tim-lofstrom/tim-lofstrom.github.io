@@ -1,11 +1,11 @@
 ---
 name: Tim Löfström
-title: Post Test
-subtitle: Testar att göra en post
+title: Ny hemsida
+subtitle: Gästrike KK driftsätter nu en ny hemsida på vår egen domän
 date: den 11 mars, 2023
-page: traningskvallar
+page: index
 ---
 
-# Träning
+# Ny hemsida
 
-Träningskvällarna är på tisdagar klockan 20-22
+Med ny hemsida hoppas vi kunna vara med aktiva och alltid ha aktuell information tillgänglig
