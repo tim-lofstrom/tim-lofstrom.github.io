@@ -5,7 +5,7 @@ page: traningskvallar
 
 # Träningskvällar
 
-Träningskvällar för klubbens medlemmar sker regelbundet på Dome
+Träningskvällar för klubbens medlemmar sker regelbundet på Dome.
 
 **Klubbkvällar**\
 Tisdagar kl. 20 - 22\

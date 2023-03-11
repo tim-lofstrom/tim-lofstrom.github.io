@@ -8,4 +8,4 @@ page: index
 
 # Ny hemsida
 
-Med ny hemsida hoppas vi kunna vara med aktiva och alltid ha aktuell information tillgänglig
+Med ny hemsida hoppas vi kunna vara med aktiva och alltid ha aktuell information tillgänglig.

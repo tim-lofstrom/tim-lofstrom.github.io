@@ -7,7 +7,7 @@ page: medlemskap
 
 **Bli medlem i Gästrike klätterklubb**
 
-Medlemsavgiften är `550kr` för ett kalenderår
+Medlemsavgiften är `550kr` för ett kalenderår.
 
 I medlemskapet ingår
 - Klätterförsäkring
@@ -19,11 +19,11 @@ I medlemskapet ingår
 
 **Kurser**
 
-För aktuella kurser och kurs-priser se `[länk till kurser]`
+För aktuella kurser och kurs-priser se [Kurser](./kurser).
 
 **Dome-priser**
 
-Alla kostnader för årskort och entré görs direkt till [Dome](https://www.thedome.se/)
+Alla kostnader för årskort och entré görs direkt till [Dome](https://www.thedome.se/).
 
 **Årskort**
 - `550kr` (GKK) + `1900kr` (Dome) = `2450kr`
@@ -43,7 +43,7 @@ Helgdagar 4h heldag `224kr`
 **Familjerabatt**
 
 Om fyra personer ur en familj blir medlem (vuxen eller barn) ges möjlighet till extra rabatterade årskort.
-I dessa fall betalar två personer ordinare pris (1900kr/person) och övriga familjemedlemmar endast 1000 kr/person
+I dessa fall betalar två personer ordinare pris (1900kr/person) och övriga familjemedlemmar endast 1000 kr/person.
 
 *Exempel:* \
 Familj 4 personer\
@@ -53,11 +53,11 @@ Totalt: `8000kr`
 
 **Betalning**
 
-Medlemskap till klätterklubben görs till nedan Bankgiro eller Swish
+Medlemskap till klätterklubben görs till nedan Bankgiro eller Swish.
 
-Betalning märks med personnummer
+Betalning märks med personnummer.
 
-Medlemskap i Gästrike Klätterklubb gäller per kalenderår
+Medlemskap i Gästrike Klätterklubb gäller per kalenderår.
 
 Bankgiro: `650-2645`\
 Swish: `1234170783`
@@ -76,4 +76,4 @@ Samtyckesblanketten behöver bara fyllas i en gång och kan laddas ner här
 
 **OBS!**
 
-Det kan ta någon dag mellan att du har betalat avgiften till GKK fram till att det syns i Domes medlemsregister. Detta på grund av att det innebär en manuell hantering av varje ny medlem av vår kassör
+Det kan ta någon dag mellan att du har betalat avgiften till GKK fram till att det syns i Domes medlemsregister. Detta på grund av att det innebär en manuell hantering av varje ny medlem av vår kassör.
