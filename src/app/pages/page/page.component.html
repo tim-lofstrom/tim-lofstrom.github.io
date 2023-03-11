@@ -1,12 +1,12 @@
 <div class="container px-4 px-lg-5">
-    <div class="row gx-4 gx-lg-5 justify-content-center">
+	<div class="row gx-4 gx-lg-5 justify-content-center">
 
-        <div class="col-md-10 col-lg-8 col-xl-7">
+		<div class="col-md-10 col-lg-8 col-xl-7">
 			<markdown *ngIf="content$ | async as content" [data]="content"></markdown>
-        </div>
+		</div>
 
-        <div class="col-md-10 col-lg-8 col-xl-7">
-            <app-post-preview *ngIf="page$ | async as page" [page]="page" [posts]="posts$ | async"></app-post-preview>
-        </div>
-    </div>
+		<div class="col-md-10 col-lg-8 col-xl-7">
+			<app-post-preview *ngIf="page$ | async as page" [page]="page" [posts]="posts$ | async"></app-post-preview>
+		</div>
+	</div>
 </div>
