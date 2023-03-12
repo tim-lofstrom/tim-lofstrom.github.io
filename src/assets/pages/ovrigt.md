@@ -9,7 +9,7 @@ Här finns övrig information som är bra att veta.
 
 ## Grönt kort
 
-Vi sätter säkerheten först och erbjuder därför möjlighet att ta [grönt kort](https://bergsport.se/utbildning/borja-klattra-2/)
+Vi sätter säkerheten först och erbjuder därför möjlighet att ta <a href="https://bergsport.se/utbildning/borja-klattra-2/" target="_blank">grönt kort</a>
 
 Ta kontakt genom `bokning.gastrikekk@gmail.com` vid intresse.
 
