@@ -45,4 +45,4 @@ Riktar sig till barn 8-10 år och hålls av GKKs egna instruktörer.
 **Kostnad:** 695kr/termin kolla krav från Dome ovan.\
 **Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
 
-Hitta mer information på hemsidan för [Dome](https://www.thedome.se/).
+Hitta mer information på hemsidan för <a href="https://www.thedome.se/" target="_blank">Dome</a>.

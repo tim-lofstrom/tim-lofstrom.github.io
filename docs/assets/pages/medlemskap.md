@@ -23,7 +23,7 @@ För aktuella kurser och kurs-priser se [Kurser](./kurser).
 
 **Dome-priser**
 
-Alla kostnader för årskort och entré görs direkt till [Dome](https://www.thedome.se/).
+Alla kostnader för årskort och entré görs direkt till <a href="https://www.thedome.se/" target="_blank">Dome</a>
 
 **Årskort**
 - `550kr` (GKK) + `1900kr` (Dome) = `2450kr`

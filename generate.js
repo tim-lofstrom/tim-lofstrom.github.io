@@ -52,3 +52,5 @@ const data = {
 const jsonData = JSON.stringify(data);
 
 fs.writeFileSync('src/assets/index.json', jsonData);
+
+console.log("index.json generated.");

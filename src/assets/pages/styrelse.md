@@ -7,12 +7,12 @@ page: styrelse
 
 <br>
 
-| Kontaktinformation       | 				        |   |   |   |
-|------------|----------------------|---|---|---|
-| Namn       | Gästrike KK          |   |   |   |
-| Postadress | GÄVLE                |   |   |   |
-| E-post     | `gastrikekk@gmail.com` |   |   |   |
-| Orgnr      |                      |   |   |   |
+**Kontaktinformation**
+
+**Namn:** Gästrike Klätterklubb\
+**Postadress**: GÄVLE\
+**E-post:** `gastrikekk@gmail.com`\
+**Orgnr:** 802418-8990
 
 > Styrelsen består av
 
@@ -30,6 +30,15 @@ Ceymor Forslund
 
 **Ledamot**\
 Joel Westin
+
+**Ledamot**\
+Jasmine Larsson
+
+**Suppleant**\
+Mattias Lundgren
+
+**Suppleant**\
+Ivana Mito
 
 **Suppleant**\
 Tim Löfström
