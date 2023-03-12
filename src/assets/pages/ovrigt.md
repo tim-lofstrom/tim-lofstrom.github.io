@@ -39,15 +39,15 @@ Kommer utrustas med vårt tidigare kodlås från Exercishuset. Mer rutiner kring
 
 **Boulder**
 
-- <a href="/assets/files/Dagcenterstenen.pdf" target="_blank">Dagcenterstenen.pdf</a>
-- <a href="/assets/files/Eskon.pdf" target="_blank">Eskon.pdf</a>
-- <a href="/assets/files/Forsby.pdf" target="_blank">Forsby.pdf</a>
-- <a href="/assets/files/F--rare-Oppalaklippan.pdf" target="_blank">F--rare-Oppalaklippan.pdf</a>
-- <a href="/assets/files/Hogbo.pdf" target="_blank">Hogbo.pdf</a>
-- <a href="/assets/files/Landa.pdf" target="_blank">Landa.pdf</a>
-- <a href="/assets/files/Trodje.pdf" target="_blank">Trodje.pdf</a>
+- <a href="/assets/files/forare/Dagcenterstenen.pdf" target="_blank">Dagcenterstenen.pdf</a>
+- <a href="/assets/files/forare/Eskon.pdf" target="_blank">Eskon.pdf</a>
+- <a href="/assets/files/forare/Forsby.pdf" target="_blank">Forsby.pdf</a>
+- <a href="/assets/files/forare/F--rare-Oppalaklippan.pdf" target="_blank">F--rare-Oppalaklippan.pdf</a>
+- <a href="/assets/files/forare/Hogbo.pdf" target="_blank">Hogbo.pdf</a>
+- <a href="/assets/files/forare/Landa.pdf" target="_blank">Landa.pdf</a>
+- <a href="/assets/files/forare/Trodje.pdf" target="_blank">Trodje.pdf</a>
 
 **Rep**
 
-- <a href="/assets/files/Militarklippan.pdf" target="_blank">Militarklippan.pdf</a>
-- <a href="/assets/files/Oppala.pdf" target="_blank">Oppala.pdf</a>
+- <a href="/assets/files/forare/Militarklippan.pdf" target="_blank">Militarklippan.pdf</a>
+- <a href="/assets/files/forare/Oppala.pdf" target="_blank">Oppala.pdf</a>

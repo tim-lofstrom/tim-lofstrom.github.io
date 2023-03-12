@@ -72,7 +72,7 @@ Personnummer\
 Ssamtyckesvtal (Laddas ner som Pdf)
 
 Samtyckesblanketten behöver bara fyllas i en gång och kan laddas ner här
-> <a href="/assets/files/Samtyckesblankett.pdf" target="_blank">Samtyckesblankett.pdf</a>
+> <a href="/assets/files/styrdokument/Samtyckesblankett.pdf" target="_blank">Samtyckesblankett.pdf</a>
 
 **OBS!**
 

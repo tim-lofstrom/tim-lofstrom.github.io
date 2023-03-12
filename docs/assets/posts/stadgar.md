@@ -1,7 +1,7 @@
 ---
 name: styrelsen
 title: Stadgar
-subtitle: Stadgar Gastrike Klatterklubb
+subtitle: Stadgar gästrike klätterklubb
 page: dokument
 ---
 
