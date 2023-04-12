@@ -6,6 +6,6 @@ date: den 11 mars, 2023
 page: index
 ---
 
-# Ny hemsida
+# Ny hemsida!
 
 Med ny hemsida hoppas vi kunna vara mer aktiva och alltid ha aktuell information tillgänglig.
