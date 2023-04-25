@@ -71,8 +71,12 @@ I dessa fall betalar två personer ordinare pris (1995kr/person) och övriga fam
 
 *Exempel:* \
 Familj 4 personer\
-2st Medlem 550kr (GKK) + 1995kr (Dome) x2 = 5090\
-+2 st Medlem 550kr (GKK) + 1000kr (Dome) x2 = 3100\
+4st Medlem á 550kr (GKK) = 2200kr\
+Årskort 1 (Dome) = 1995kr \
+Årskort 2 (Dome) = 1995kr \
+Årskort 3 (Dome barn) = 1000kr\
+Årskort 4 (Dome barn) = 1000kr\
+\
 Totalt: `8190kr`
 
 
