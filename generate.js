@@ -23,6 +23,7 @@ function getPagesMetaData(data, file) {
     return {
         title: data.title,
         page: data.page,
+		navbar: data.navbar,
         file: file
     };
 }
@@ -52,5 +53,3 @@ const data = {
 const jsonData = JSON.stringify(data);
 
 fs.writeFileSync('src/assets/index.json', jsonData);
-
-console.log("index.json generated.");

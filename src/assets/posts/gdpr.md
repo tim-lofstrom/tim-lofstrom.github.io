@@ -2,7 +2,7 @@
 name: styrelsen
 title: GDPR
 subtitle: GDPR Samtyckesavtal
-date: 2023
+date: "2023"
 page: dokument
 ---
 

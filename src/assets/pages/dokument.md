@@ -1,6 +1,7 @@
 ---
 title: Dokument
 page: dokument
+navbar: Information
 ---
 
 # Dokument

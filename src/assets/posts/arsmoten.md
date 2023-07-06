@@ -2,7 +2,7 @@
 name: styrelsen
 title: Årsmöten
 subtitle: Årsmöten 2009 - 2023
-date: 2023
+date: "2023"
 page: dokument
 ---
 

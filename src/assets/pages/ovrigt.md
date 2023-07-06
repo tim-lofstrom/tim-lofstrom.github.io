@@ -1,6 +1,7 @@
 ---
 title: Övrigt
 page: ovrigt
+navbar: Information
 ---
 
 # Övrig information
@@ -18,6 +19,15 @@ Ta kontakt genom `bokning.gastrikekk@gmail.com` vid intresse.
 Vi har en speciell kurs för våra nya medlemmar som är under 13 år gamla därmed inte ännu är berättigade till att ta grönt kort. Kursen syftar till att ge nya medlemmar en säker start på sin klätterresa. Denna kurs utgör ett alternativ till de yngre medlemmar som vill lära sig klättra men inte känner sig redo att gå någon av våra [kurser](./kurser). I kursen går vi igenom säkerhetsaspekter vid både bouldering och repklättring.
 
 Anmälan görs via Dome's reception eller `gastrikekk@gmail.com`
+
+
+## Säkerhet
+
+Som medlem i Gästrike Klätterklubb är du försäkrad genom Svenska Klätterförbundet via ett samarbete med Folksam.
+
+Läs mer om detta på <a href="https://www.folksam.se/forsakringar/idrottsforsakring/klattring" target="_blank">Folksam Idrottsforsakring</a>
+
+Där finns information och telefonnummer till "Råd och Vård" för idrottsskador.
 
 ## Dome rutiner
 

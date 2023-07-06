@@ -2,7 +2,7 @@
 name: styrelsen
 title: Styrelsemöten 2020
 subtitle: Styrelsemöten 2020
-date: 2020
+date: "2020"
 page: dokument
 ---
 
