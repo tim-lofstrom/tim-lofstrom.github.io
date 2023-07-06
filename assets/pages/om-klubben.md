@@ -1,6 +1,7 @@
 ---
 title: Om klubben
 page: om-klubben
+navbar: Information
 ---
 
 # Om Gästrike KK

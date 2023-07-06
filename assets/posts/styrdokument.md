@@ -2,7 +2,7 @@
 name: styrelsen
 title: Styrdokument
 subtitle: Styrdokument
-date: 2023
+date: "2023"
 page: dokument
 ---
 

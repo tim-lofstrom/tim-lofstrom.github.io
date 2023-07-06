@@ -2,7 +2,7 @@
 name: styrelsen
 title: Styrelsemöten 2022
 subtitle: Styrelsemöten 2022
-date: 2022
+date: "2022"
 page: dokument
 ---
 

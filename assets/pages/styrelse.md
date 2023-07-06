@@ -1,6 +1,6 @@
 ---
-title: Styrelse
-page: styrelse
+title: Kontakt
+page: kontakt
 ---
 
 # Styrelsen
