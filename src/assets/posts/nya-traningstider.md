@@ -47,8 +47,8 @@ Dome halv/helårskort: 950kr/1900kr\
 Terminsavgift: 695kr
 
 **Totalt:** \
-2195kr med halvårskort. \
-3145kr med helårskort.
+2295kr med halvårskort. \
+3245kr med helårskort.
 
 Om ni redan är medlem i klubben och innehar kort på Dome så är det bara terminsavgiften som ska betalas in till klubben. 
 
