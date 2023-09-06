@@ -7,7 +7,7 @@ page: medlemskap
 
 ## Bli medlem i Gästrike klätterklubb
 
-Medlemsavgiften är `550kr` för ett kalenderår.
+Medlemsavgiften är `650kr` för ett kalenderår.
 
 I medlemskapet ingår
 - Klätterförsäkring
@@ -16,6 +16,8 @@ I medlemskapet ingår
 - `50%` på Domes årskort
 - `25%` rabatt på Domes engångsentré samt möjlighet till en familjedeal
 - `50%` rabatt på alla Domes egna kurser (Om man har löst årskort hos Dome)
+
+Eftersom medlemsskapet gäller per kalenderår ger GKK rabatt på avgiften om man blir medlem sent på året, från september och framåt är avgiften `300kr`. Detta gäller med förutsättningen att man samtidigt betalar kommande års medemsavgift. Totalt `650kr + 300kr = 950kr`.
 
 ### Betalning av medlemsavgiften
 
@@ -51,10 +53,10 @@ Observera att det kan ta någon dag mellan att du har betalat avgiften till GKK 
 Som medlem får du rabatt på Dome-priser enligt ovan. **Observera att alla kostnader för årskort och entré görs direkt till <a href="https://www.thedome.se/" target="_blank">Dome</a>!**
 
 Prisexempel, GKK-medlemskap samt årskort
-- `550kr` (GKK) + `1995kr` (Dome) = `2545kr` totalt per år
+- `650kr` (GKK) + `1995kr` (Dome) = `2545kr` totalt per år
 
 Prisexempel, GKK-medlemskap samt engångsentré
-- Medlemskap `550kr` (GKK) +
+- Medlemskap `650kr` (GKK) +
 - Vardagar 2h `127kr`\
 - Vardagar 4h heldag `149kr`\
 - Helgdagar 2h `149kr`\
@@ -71,13 +73,13 @@ I dessa fall betalar två personer ordinare pris (1995kr/person) och övriga fam
 
 *Exempel:* \
 Familj 4 personer\
-4st Medlem á 550kr (GKK) = 2200kr\
+4st Medlem á 650kr (GKK) = 2600kr\
 Årskort 1 (Dome) = 1995kr \
 Årskort 2 (Dome) = 1995kr \
 Årskort 3 (Dome barn) = 1000kr\
 Årskort 4 (Dome barn) = 1000kr\
 \
-Totalt: `8190kr`
+Totalt: `8590kr`
 
 
 ## Kurser
