@@ -32,7 +32,7 @@ Det är krav på att deltagarna har ett halv (950kr) eller helårskort (1900kr) 
 
 Detta betalas till Dome på plats. 
 
-Detta pris gäller om man är medlem i Gästrike klätterklubb där medlemskapet kostar 550kr. Annars är priset det dubbla för halv och helårskort på Dome. 
+Detta pris gäller om man är medlem i Gästrike klätterklubb där medlemskapet kostar 650kr. Annars är priset det dubbla för halv och helårskort på Dome. 
 
 Medlemskap i klubben gäller för ett kalenderår.
 
@@ -42,7 +42,7 @@ https://www.gastrikekk.se/medlemskap
 
 
 **Ihopräknat:** \
-Medlemsavgift GKK: 550kr\
+Medlemsavgift GKK: 650kr\
 Dome halv/helårskort: 950kr/1900kr\
 Terminsavgift: 695kr
 
