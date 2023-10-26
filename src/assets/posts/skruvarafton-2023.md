@@ -8,7 +8,7 @@ page: index
 
 # Skruvarafton 10-11 november
 
-Från klockan 17:00  på fredagen.
+Från klockan 17:00 på fredagen.
 
 Hejsan gott folk. 
 
@@ -35,3 +35,5 @@ Ses där klockan **18:00**.
 
 Lev gott, 
 Hälsningar Styrelsen
+
+>>> Facebook event: <a href="https://facebook.com/events/s/skruvar-afton/1496020977832202/" target="_blank">klicka här</a>
