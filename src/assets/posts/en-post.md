@@ -2,7 +2,7 @@
 name: Tim Löfström
 title: Ny hemsida
 subtitle: Gästrike KK driftsätter nu en ny hemsida på vår egen domän
-date: den 11 mars, 2023
+date: "2023-03-11"
 page: index
 ---
 

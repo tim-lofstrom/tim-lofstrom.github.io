@@ -2,7 +2,7 @@
 name: Jesper Bäckman
 title: Höstterminen 2023
 subtitle: Information gällande träningstider för höstterminen som börjar vecka 38.
-date: den 15 augusti, 2023
+date: "2023-08-15"
 page: index
 ---
 
