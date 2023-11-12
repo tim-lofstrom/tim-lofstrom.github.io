@@ -2,7 +2,7 @@
 name: Jesper Bäckman
 title: Skruvarafton 2023
 subtitle: Välkomna på skruvarafton 10-11 november 2023
-date: den 26 oktober, 2023
+date: "2023-10-26"
 page: index
 ---
 
