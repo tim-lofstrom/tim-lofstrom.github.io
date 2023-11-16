@@ -15,3 +15,4 @@ Styrelsemöten 2023
 - <a href="./assets/files/styrelsemoten-2023/20230411.pdf" target="_blank">20230411.pdf</a>
 - <a href="./assets/files/styrelsemoten-2023/20230528.pdf" target="_blank">20230528.pdf</a>
 - <a href="./assets/files/styrelsemoten-2023/20230905.pdf" target="_blank">20230905.pdf</a>
+- <a href="./assets/files/styrelsemoten-2023/20231114.pdf" target="_blank">20231114.pdf</a>
