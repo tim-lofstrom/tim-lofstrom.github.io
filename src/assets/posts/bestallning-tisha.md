@@ -2,7 +2,7 @@
 name: Pascal
 title: Beställning av GKK T-shirt och linnen vår 2023
 subtitle: Beställ en fin GKK T-shirt eller linne - eller varför inte både och :)
-date: den 15 april, 2023
+date: "2023-04-15"
 page: index
 ---
 
