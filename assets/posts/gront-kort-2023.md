@@ -1,12 +1,12 @@
 ---
 name: Tim Löfström
-title: Kurs Grönt kort november 2023
-subtitle: Nu finns 6 platser till en kurs i grönt kort november 2023
+title: Kurs Grönt kort
+subtitle: Nu finns 6 platser till en kurs i grönt kort
 date: "2023-11-12"
 page: index
 ---
 
-# Kurs Grönt kort november 2023
+# Kurs Grönt kort
 
 Välkommen till grundkurs i klättring där du lär dig de säkerhetsmässiga grunderna kring utrustning, säkring och kamrat-kontroll.
 
@@ -15,13 +15,7 @@ Efter godkänd kurs erhåller du ett Grönt Kort.
 Kursen är uppdelat på två tillfällen, man måste delta på båda får att kunna bli godkänd.
 
 **Datum**
-
-- Del 1\
-    Söndag den 19 november
-    Kl. 18.00 - 20.00
-- Del 2\
-    Söndag den 26 november
-    Kl. 18.00 - 20.00
+Datum sätts efter behov.
 
 **Pris**\
 1.200 kr
