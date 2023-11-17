@@ -14,7 +14,7 @@ Efter godkänd kurs erhåller du ett Grönt Kort.
 
 Kursen är uppdelat på två tillfällen, man måste delta på båda får att kunna bli godkänd.
 
-**Datum**
+**Datum**\
 Datum sätts efter behov.
 
 **Pris**\
