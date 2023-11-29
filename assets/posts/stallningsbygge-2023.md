@@ -12,5 +12,5 @@ Onsdag 29 november kommer det byggas en ställning vid boulderväggen för att j
 
 Tillgängligheten är pga detta begränsad.
 
-Hälsningar,
+Hälsningar,\
 Styrelsen
