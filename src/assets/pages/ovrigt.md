@@ -8,12 +8,6 @@ navbar: Information
 
 Här finns övrig information som är bra att veta.
 
-## Grönt kort
-
-Vi sätter säkerheten först och erbjuder därför möjlighet att ta <a href="https://bergsport.se/utbildning/borja-klattra-2/" target="_blank">grönt kort</a>
-
-Ta kontakt genom `bokning.gastrikekk@gmail.com` vid intresse.
-
 ## Introkurs för barn
 
 Vi har en speciell kurs för våra nya medlemmar som är under 13 år gamla därmed inte ännu är berättigade till att ta grönt kort. Kursen syftar till att ge nya medlemmar en säker start på sin klätterresa. Denna kurs utgör ett alternativ till de yngre medlemmar som vill lära sig klättra men inte känner sig redo att gå någon av våra [kurser](./kurser). I kursen går vi igenom säkerhetsaspekter vid både bouldering och repklättring.

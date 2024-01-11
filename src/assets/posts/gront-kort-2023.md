@@ -24,7 +24,4 @@ Datum sätts efter behov.
 The Dome\
 Utanvindsvägen 5, 802 57 Gävle
 
-**Instruktör**\
-Mattias Lundgren
-
 - <a href="https://forms.gle/Ggk1AA7mGh5u2Azj8" target="_blank">Klicka här för anmälan (Google Forms)</a>
