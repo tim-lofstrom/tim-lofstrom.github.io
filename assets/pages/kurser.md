@@ -21,6 +21,12 @@ Medlemskap i klubben gäller för ett kalenderår.
 
 Information om hur man blir medlem i Gästrike klätterklubb finner du här på sidan [Medlemskap](./medlemskap).
 
+**Grönt kort**
+
+Vi sätter säkerheten först och erbjuder därför möjlighet att ta grönt kort där du lär dig de säkerhetsmässiga grunderna kring utrustning, säkring och kamrat-kontroll. Läs mer om det och anmäl dig på våran sida om <a href="/posts/Kurs Grönt kort">Grönt kort</a>
+
+Mer information finns även på sidan <a href="https://www.klatterforbundet.se/utbildning/gront-och-rott-kort/" target="_blank">klätterförbundet</a>
+
 **Nybörjargrupp (>16 år)**
 
 Riktar sig till dig som vill börja klättra och lära dig grunderna av våra erfarna instruktörer. I kursen ingår teknikträning, säkerhetsgenomgångar,  träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
