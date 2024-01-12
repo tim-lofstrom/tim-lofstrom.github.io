@@ -53,14 +53,13 @@ Observera att det kan ta någon dag mellan att du har betalat avgiften till GKK 
 Som medlem får du rabatt på Dome-priser enligt ovan. **Observera att alla kostnader för årskort och entré görs direkt till <a href="https://www.thedome.se/" target="_blank">Dome</a>!**
 
 Prisexempel, GKK-medlemskap samt årskort
-- `650kr` (GKK) + `1995kr` (Dome) = `2545kr` totalt per år
+- `650kr` (GKK) + `2495kr` (Dome) = `3145kr` totalt per år
 
 Prisexempel, GKK-medlemskap samt engångsentré
 - Medlemskap `650kr` (GKK) +
-- Vardagar 2h `127kr`\
-- Vardagar 4h heldag `149kr`\
-- Helgdagar 2h `149kr`\
-- Helgdagar 4h heldag `224kr`
+- 2 timmar `164 kr`\
+- 4 timmar `329 kr`\
+- Heldag `269 kr`\
 
 Köp av årskort/engångsentré ger tillgång till hela arenan och inte bara till klätterdelen.
 
@@ -69,17 +68,17 @@ Köp av årskort/engångsentré ger tillgång till hela arenan och inte bara til
 ### Familjerabatt
 
 Om fyra personer ur en familj blir medlem (vuxen eller barn) ges möjlighet till extra rabatterade årskort.
-I dessa fall betalar två personer ordinare pris (1995kr/person) och övriga familjemedlemmar endast 1000 kr/person.
+I dessa fall betalar två personer ordinare pris (2495kr/person) och övriga familjemedlemmar endast 1000 kr/person.
 
 *Exempel:* \
 Familj 4 personer\
 4st Medlem á 650kr (GKK) = 2600kr\
-Årskort 1 (Dome) = 1995kr \
-Årskort 2 (Dome) = 1995kr \
+Årskort 1 (Dome) = 2495kr \
+Årskort 2 (Dome) = 2495kr \
 Årskort 3 (Dome barn) = 1000kr\
 Årskort 4 (Dome barn) = 1000kr\
 \
-Totalt: `8590kr`
+Totalt: `9590kr`
 
 
 ## Kurser
