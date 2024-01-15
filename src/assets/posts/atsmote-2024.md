@@ -24,7 +24,7 @@ Efter mötet hålls vårat årliga Klubbmästerskap i bouldering där fina prise
 
 Preliminär dagordning:
 
-Dagordning till årsmöte, Gästrike klätterklubb 2023-02-11
+Dagordning till årsmöte, Gästrike klätterklubb 2024-02-11
 
 - Mötet öppnas
 - Val av mötes-
@@ -37,7 +37,7 @@ Dagordning till årsmöte, Gästrike klätterklubb 2023-02-11
 - Föredragning av ekonomisk berättelse
 - Revisionsberättelse
 - Frågan om ansvarsfrihet för styrelsen
-- Godkännande av budget 2023
+- Godkännande av budget 2024
 - Medlemsavgift
 - Val av styrelse
 - Ordförande
@@ -54,7 +54,7 @@ Dagordning till årsmöte, Gästrike klätterklubb 2023-02-11
 - Klubbkvällar
 - Tjejkvällar
 - Climb out
-- Inköp 2023: nya moonboard grepp och en slagbord?
+- Inköp 2024: nya moonboard grepp och en slagbord?
 - Bygga om kaosväggen till en grotta
 - Medlemmars önskemål
 - Övriga punkter
