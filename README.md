@@ -11,3 +11,12 @@ Uppdatera innehåll:
 ## Local development
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
+
+
+## Lägga till en post
+
+https://github.com/tim-lofstrom/tim-lofstrom.github.io/tree/master/src/assets/posts
+
+## Lägga till en page
+
+https://github.com/tim-lofstrom/tim-lofstrom.github.io/tree/master/src/assets/pages
