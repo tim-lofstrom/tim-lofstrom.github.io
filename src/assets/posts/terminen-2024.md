@@ -15,8 +15,8 @@ V. 9: Uppehåll pga sportlov \
 V. 14: Uppehåll pga påsklov \
 V. 18: Uppehåll vuxengrupp onsdag 1/5 \
 V. 19: Uppehåll ungdomsgrupp torsdag 9/5 \
-V. 20: Sista tillfället för barngruppen 20/5 \
-V. 21: Sista tillfällen för vuxengruppen 29/5 och ungdomsgruppen 30/5. 
+V. 20: Sista tillfället för barngruppen 13/5 \
+V. 21: Sista tillfällen för vuxengruppen 22/5 och ungdomsgruppen 23/5. 
 
 Barngruppen 8-12 år kör måndagar 18:00-19:00
 
