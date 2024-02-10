@@ -55,6 +55,7 @@ Dagordning till årsmöte, Gästrike klätterklubb 2024-02-11
   - Barns trygghet i idrott (söker två            
     föräldrar som kan tänka sig åta 
     sig detta arbete. 
+  - Barn och ungdomskommitté
 - Klubbkvällar
 - Tjejkvällar
 - Climb out
