@@ -51,10 +51,14 @@ Dagordning till årsmöte, Gästrike klätterklubb 2024-02-11
 - Arvoden
 - Grovplanering av verksamhetsåret
 - Träningsgrupperna
+  - NPF anpassning
+  - Barns trygghet i idrott (söker två            
+    föräldrar som kan tänka sig åta 
+    sig detta arbete. 
 - Klubbkvällar
 - Tjejkvällar
 - Climb out
-- Inköp 2024: nya moonboard grepp och en slagbord?
+- Inköp 2024: nya moonboard grepp, en slagborr, bygga egna volymer och nya grepp? 
 - Bygga om kaosväggen till en grotta
 - Medlemmars önskemål
 - Övriga punkter
