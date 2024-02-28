@@ -26,10 +26,10 @@ Sandra Carlén
 Pascal Sauvêtre
 
 **Ledamot**\
-Ceymor Forslund
+Tim Löfström
 
 **Ledamot**\
-Joel Westin
+Ivana Mito
 
 **Ledamot**\
 Jasmine Larsson
@@ -38,7 +38,7 @@ Jasmine Larsson
 Mattias Lundgren
 
 **Suppleant**\
-Ivana Mito
+Mee Dahlström
 
 **Suppleant**\
-Tim Löfström
+Daniel Lindh
