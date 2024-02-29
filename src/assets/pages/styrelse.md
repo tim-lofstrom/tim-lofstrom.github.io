@@ -29,7 +29,7 @@ Pascal Sauvêtre
 Tim Löfström
 
 **Ledamot**\
-Ivana Mito
+Ivana Bumbaroska
 
 **Ledamot**\
 Jasmine Larsson
