@@ -1,8 +1,8 @@
 ---
 name: styrelsen
 title: Årsmöten
-subtitle: Årsmöten 2009 - 2023
-date: "2023"
+subtitle: Årsmöten 2009 - 2024
+date: "2024"
 page: dokument
 ---
 
@@ -26,6 +26,7 @@ page: dokument
 - <a href="./assets/files/arsmoten/Arsmote-2021.pdf" target="_blank">Arsmote-2021.pdf</a>
 - <a href="./assets/files/arsmoten/Arsmote-2022.pdf" target="_blank">Arsmote-2022.pdf</a>
 - <a href="./assets/files/arsmoten/Arsmote-2023.pdf" target="_blank">Arsmote-2023.pdf</a>
+- <a href="./assets/files/arsmoten/Arsmote-2024.pdf" target="_blank">Arsmote-2024.pdf</a>
 - <a href="./assets/files/arsmoten/Dagordning-arsmote-2012.docx" target="_blank">Dagordning-arsmote-2012.docx</a>
 - <a href="./assets/files/arsmoten/Dagordning-arsmote-2013.docx" target="_blank">Dagordning-arsmote-2013.docx</a>
 - <a href="./assets/files/arsmoten/Revisionsberattelse-2018.pdf" target="_blank">Revisionsberattelse-2018.pdf</a>
