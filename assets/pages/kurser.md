@@ -52,3 +52,7 @@ Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer.
 **Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
 
 Hitta mer information på hemsidan för <a href="https://www.thedome.se/" target="_blank">Dome</a>.
+
+**Studentrabatt**
+
+Som student har du `10 %` rabatt på våra terminskurser vid uppvisande av CSN-kort.
