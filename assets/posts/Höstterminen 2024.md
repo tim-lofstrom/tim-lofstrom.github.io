@@ -1,8 +1,8 @@
 ---
-name: Jesper
+name: Jesper Bäckman
 title: Höstterminen 2024
-subtitle: 
-date: "2024"
+subtitle: Information gällande träningstider för höstterminen som börjar vecka 39.
+date: "2024-08-25"
 page: index
 ---
 
