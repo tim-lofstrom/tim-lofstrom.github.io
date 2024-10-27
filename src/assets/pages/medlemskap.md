@@ -14,7 +14,7 @@ I medlemskapet ingår
 - Medlemskap i Svenska Klätterförbundet inklusive deras olycksfallsförsäkring
 - Tidningen Bergsport som utkommer fyra gånger per år
 - `50%` på Domes årskort
-- `25%` rabatt på Domes engångsentré samt möjlighet till en familjedeal
+- `25%` rabatt på Domes engångsentré
 - `50%` rabatt på alla Domes egna kurser (Om man har löst årskort hos Dome)
 
 
