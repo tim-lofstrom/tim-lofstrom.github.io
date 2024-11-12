@@ -14,7 +14,7 @@ I medlemskapet ingår
 - Medlemskap i Svenska Klätterförbundet inklusive deras olycksfallsförsäkring
 - Tidningen Bergsport som utkommer fyra gånger per år
 - `50%` på Domes årskort
-- `25%` rabatt på Domes engångsentré samt möjlighet till en familjedeal
+- `25%` rabatt på Domes engångsentré
 - `50%` rabatt på alla Domes egna kurser (Om man har löst årskort hos Dome)
 
 
@@ -32,7 +32,7 @@ Medlemskap i Gästrike Klätterklubb gäller per kalenderår och ska betalas sen
 **Tänk på att man kan gå miste om olycksfallsförsäkringen, Bergsport samt Dome-rabatterna om man inte förnyar sitt medlemskap i tid.**
 
 
-Eftersom medlemsskapet gäller per kalenderår ger GKK rabatt på avgiften om man blir medlem sent på året, från september och framåt är avgiften `300kr`. Detta gäller med förutsättningen att man samtidigt betalar kommande års medemsavgift. Totalt `650kr + 300kr = 950kr`.
+Eftersom medlemsskapet gäller per kalenderår ger GKK rabatt på avgiften om man blir medlem sent på året, från september och framåt är avgiften `350kr`. Detta gäller med förutsättningen att man samtidigt betalar kommande års medemsavgift. Totalt `650kr + 350kr = 1000kr`.
 
 För en godkänd betalning av medlemsskap skall följande uppgifter skickas in till `gastrikekk@gmail.com`
 
