@@ -13,7 +13,7 @@ Terminen kostar 695kr.
 
 Anmälan görs här genom mail.
 
-Det är krav på att deltagarna har ett halv (1495kr) eller helårskort (2495kr) på Dome. Detta betyder att man får vara på Dome även utanför träningstider.
+Det är krav på att deltagarna har ett halv (1595kr) eller helårskort (2595kr) på Dome. Detta betyder att man får vara på Dome även utanför träningstider.
 
 Detta pris gäller om man är medlem i Gästrike klätterklubb där medlemskapet kostar 650kr. Annars är priset det dubbla för halv och helårskort på Dome.
 
@@ -27,13 +27,6 @@ Vi sätter säkerheten först och erbjuder därför möjlighet att ta grönt kor
 
 Mer information finns även på sidan <a href="https://www.klatterforbundet.se/utbildning/gront-och-rott-kort/" target="_blank">klätterförbundet</a>
 
-**Nybörjargrupp (>16 år)**
-
-Riktar sig till dig som vill börja klättra och lära dig grunderna av våra erfarna instruktörer. I kursen ingår teknikträning, säkerhetsgenomgångar,  träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
-
-**När:** 1 gång/veckan, fr.o.m 2024-02-14 (onsdagar), kl 17:30-19:30. 12 tillfällen. Uppehåll lov och röda dagar.\
-**Kostnad:** 695kr/termin kolla krav från Dome ovan.\
-**Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
 
 **Ungdomsgrupp (13-15 år)**
 
