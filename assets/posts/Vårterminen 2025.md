@@ -13,11 +13,11 @@ Vårtermin börjar vecka 7 och är 12 tillfällen.
 V. 7: Terminsstart\
 V. 9: Uppehåll pga sportlov\
 V. 16 Uppehåll pga påsklov\
-V. 17 Ingen barn12grupp pga annandagpåsk\
+V. 17 Ingen barngrupp pga annandagpåsk\
 V. 18 Ingen ungdomsgrupp pga 1:a maj\
 V. 21 Sista träningen för terminen
 
-Barngruppen 8- år kör måndagar 18:00-19:00\
+Barngruppen 8-12 år kör måndagar 18:00-19:00\
 Ungdomsgruppen 13-15 år kör Torsdagar 17:30-19:00\
 Terminen kostar 695kr. \
 Betalas in till samma Swishnummer som årsmedlemskapet: 1234170783
