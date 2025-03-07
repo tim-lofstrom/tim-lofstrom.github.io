@@ -23,7 +23,7 @@ Jesper Bäckman
 Sandra Carlén
 
 **Kassör**\
-Pascal Sauvêtre
+Daniel Lindh
 
 **Ledamot**\
 Tim Löfström
@@ -41,4 +41,4 @@ Mattias Lundgren
 Mee Dahlström
 
 **Suppleant**\
-Daniel Lindh
+Martin Bergström
