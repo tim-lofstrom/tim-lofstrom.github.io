@@ -1,20 +1,20 @@
 ---
 name: Tim Löfström
-title: GKK för NPF-anpassad idrott
+title: GKK för inkluderande idrott
 subtitle: Gästrike Klätterklubb vill vi att alla ska känna sig välkomna och trygga när de klättrar hos oss. Läs mer om våra steg framåt inom NPF.
 date: "2025-03-07"
 page: index
 ---
 
-# GKK för NPF-anpassad idrott
+# GKK för inkluderande idrott
 
-På Gästrike Klätterklubb vill vi att alla ska känna sig välkomna och trygga när de klättrar hos oss. Därför har vi nyligen satsat på att utbilda oss inom NPF-anpassad idrott (Neuropsykiatriska funktionsnedsättningar).
+På Gästrike Klätterklubb vill vi att alla ska känna sig välkomna och trygga när de klättrar hos oss. Därför har vi nyligen satsat på att utbilda oss inom inkluderande idrott.
 
 ## En första inblick
 
-Det första steget var att vi fick en första inblick i NPF-anpassad idrott genom en introduktion av RF-SISU.
+Det första steget var att vi fick en första inblick i NPF-anpassad idrott (Neuropsykiatriska funktionsnedsättningar) genom en introduktion av RF-SISU.
 
-I januari 2025 deltog fyra personer från styrelsen på Måns Lööfs föreläsning "Den förutsägbara ledaren". Måns delade med sig av sina erfarenheter kring NPF-anpassad idrott, inklusive sitt arbete med barn med funktionsvariationer och vikten av en förutsägbar miljö. Han pratade om spegelneuronens roll, relationskapital och hur man bäst bemöter barn med diagnoser som ADHD, ADD och autism. Vi fick också konkreta verktyg och frågor att arbeta med i vår verksamhet. Som nästa steg kommer vi att få Måns bok till klubben och ta vidare steg mot att bli en NPF-anpassad verksamhet.
+I januari 2025 deltog fyra personer från styrelsen på Måns Lööfs föreläsning "Den förutsägbara ledaren". Måns delade med sig av sina erfarenheter kring inkluderade idrott med inrikning NPF, inklusive sitt arbete med barn med funktionsvariationer och vikten av en förutsägbar miljö. Han pratade om spegelneuronens roll, relationskapital och hur man bäst bemöter barn med diagnoser som ADHD, ADD och autism. Vi fick också konkreta verktyg och frågor att arbeta med i vår verksamhet. Som nästa steg kommer vi att få Måns bok till klubben för att öka inkluderingen och fördjupa vår förståelse för NPF-anpassning.
 
 ## Bokrelease "Den förutsägbara ledaren"
 
@@ -30,7 +30,7 @@ Samtalet kretsade kring vikten av bemötande och hur avgörande det är för bar
 
 ## Stegen framåt
 
-Vi ska fortsätta lära oss och sprida kunskapen om NPF-anpassad idrott genom att läsa "Den förutsägbara ledaren" samt använda de verktyg vi lär oss för att göra vår verksamhet mer förutsägbar och inkluderande. Vi utforskar också stöd från RF-SISU och arbetar mot att bli en certifierad NPF-anpassad klubb.
+Vi ska fortsätta lära oss och sprida kunskapen om inkluderade idrott och NPF genom att läsa "Den förutsägbara ledaren" samt använda de verktyg vi får med oss för att göra vår verksamhet mer förutsägbar och inkluderande. Vi utforskar också stöd från RF-SISU och arbetar mot att bli en certifierad NPF-anpassad klubb.
 
 <p align="center">
 <img src="./assets/files/bilder/denfortsagbaraledaren.webp" width="200">
