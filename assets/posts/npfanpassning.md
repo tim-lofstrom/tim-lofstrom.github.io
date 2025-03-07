@@ -1,7 +1,7 @@
 ---
 name: Tim Löfström
 title: GKK för NPF-anpassad idrott
-subtitle: Gästrike Klätterklubb vill vi att alla ska känna sig välkomna och trygga när de klättrar hos oss. Läs ner om våra steg framåt inom NPF.
+subtitle: Gästrike Klätterklubb vill vi att alla ska känna sig välkomna och trygga när de klättrar hos oss. Läs mer om våra steg framåt inom NPF.
 date: "2025-03-07"
 page: index
 ---
