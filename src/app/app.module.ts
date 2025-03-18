@@ -1,7 +1,11 @@
-import { HttpClient, HttpClientModule } from '@angular/common/http';
+import {
+  HttpClient,
+  provideHttpClient,
+  withInterceptorsFromDi,
+} from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { MarkdownModule, MarkedOptions } from 'ngx-markdown';
+import { MarkdownModule, MARKED_OPTIONS } from 'ngx-markdown';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -20,24 +24,26 @@ import { PageComponent } from './pages/page/page.component';
     HeaderComponent,
     FooterComponent,
     PostsComponent,
-    PostPreviewComponent
+    PostPreviewComponent,
   ],
+  bootstrap: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule,
-    MarkdownModule.forRoot({ loader: HttpClient, markedOptions: {
-      provide: MarkedOptions,
-      useValue: {
-        gfm: true,
-        breaks: false,
-        pedantic: false,
-        smartLists: true,
-        smartypants: false,
+    MarkdownModule.forRoot({
+      loader: HttpClient,
+      markedOptions: {
+        provide: MARKED_OPTIONS,
+        useValue: {
+          gfm: true,
+          breaks: false,
+          pedantic: false,
+          smartLists: true,
+          smartypants: false,
+        },
       },
-    }, })
+    }),
   ],
-  providers: [],
-  bootstrap: [AppComponent]
+  providers: [provideHttpClient(withInterceptorsFromDi())],
 })
-export class AppModule { }
+export class AppModule {}
