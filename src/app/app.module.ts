@@ -4,7 +4,7 @@ import {
   withInterceptorsFromDi,
 } from '@angular/common/http';
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
+import { BrowserModule, provideClientHydration, withEventReplay } from '@angular/platform-browser';
 import { MarkdownModule, MARKED_OPTIONS } from 'ngx-markdown';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -42,6 +42,6 @@ import { PageComponent } from './pages/page/page.component';
       },
     }),
   ],
-  providers: [provideHttpClient(withInterceptorsFromDi())],
+  providers: [provideHttpClient(withInterceptorsFromDi()), provideClientHydration(withEventReplay())],
 })
 export class AppModule {}
