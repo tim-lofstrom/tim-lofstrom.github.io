@@ -38,8 +38,6 @@ import { PageComponent } from './pages/page/page.component';
           gfm: true,
           breaks: false,
           pedantic: false,
-          smartLists: true,
-          smartypants: false,
         },
       },
     }),

@@ -6,8 +6,9 @@ import { PostsService } from 'src/app/service/posts.service';
 import { StateService } from 'src/app/service/state.service';
 
 @Component({
-  selector: 'app-posts',
-  templateUrl: './posts.component.html',
+    selector: 'app-posts',
+    templateUrl: './posts.component.html',
+    standalone: false
 })
 export class PostsComponent implements OnInit {
 

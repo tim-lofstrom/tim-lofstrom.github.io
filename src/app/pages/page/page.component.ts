@@ -7,8 +7,9 @@ import { PagesService } from 'src/app/service/pages.service';
 import { StateService } from 'src/app/service/state.service';
 
 @Component({
-	selector: 'app-page',
-	templateUrl: './page.component.html',
+    selector: 'app-page',
+    templateUrl: './page.component.html',
+    standalone: false
 })
 export class PageComponent implements OnInit {
 

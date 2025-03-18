@@ -2,8 +2,9 @@ import { Component, Input, OnInit } from '@angular/core';
 import { Post } from 'src/app/model/post';
 
 @Component({
-  selector: 'app-post-preview',
-  templateUrl: './post-preview.component.html',
+    selector: 'app-post-preview',
+    templateUrl: './post-preview.component.html',
+    standalone: false
 })
 export class PostPreviewComponent {
 
