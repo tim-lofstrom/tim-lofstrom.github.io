@@ -23,19 +23,6 @@ export class PageComponent implements OnInit {
   posts$: Observable<Post[]> | undefined;
   pages$: Observable<Page[]> | undefined;
 
-  // @HostListener('click', ['$event'])
-  // onClick(event: any): void {
-
-  // 	const anchor = event.target.closest("a");
-  // 	if (!anchor) return;
-  // 	const target = anchor.getAttribute('target')
-  // 	if (target == "_blank") return;
-
-  // 	event.preventDefault();
-  // 	const href = anchor.getAttribute('href')
-  // 	this.router.navigate([href])
-  // }
-
   constructor(
     private route: ActivatedRoute,
     private stateService: StateService,
@@ -60,10 +47,6 @@ export class PageComponent implements OnInit {
   }
 
   filterFilename(item: Page[], name: string) {
-    // if (name === undefined) {
-    // 	name = 'index';
-    // }
-
     return item
       .filter((page) => (page as Page).page.includes(name))
       .map((page) => page.file)

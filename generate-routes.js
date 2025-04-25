@@ -44,10 +44,21 @@ const pagesData = pagesFiles.map((file) => {
   return getPagesMetaData(data, file);
 });
 
+function slugify(input) {
+  return input
+    .toLowerCase()
+    .replace(/å/g, "a")
+    .replace(/ä/g, "a")
+    .replace(/ö/g, "o")
+    .replace(/[^a-z0-9]/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
 const data = [
   ...pagesData.map((a) => a.page),
   "posts",
-  ...postsData.map((a) => "posts/" + a.title),
+  ...postsData.map((a) => "posts/" + slugify(a.title)),
 ].join("\n");
 
 fs.writeFileSync("routes.txt", data, "utf8");
