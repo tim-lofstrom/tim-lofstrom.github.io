@@ -4,23 +4,22 @@ import { PageComponent } from './pages/page/page.component';
 import { PostsComponent } from './pages/posts/posts.component';
 
 const routes: Routes = [
-    {
-        path: '',
-        component: PageComponent
-    },
-    {
-        path: ':page',
-        component: PageComponent
-    },
-    {
-        path: 'posts/:name',
-        component: PostsComponent
-    }
+  {
+    path: '',
+    component: PageComponent,
+  },
+  {
+    path: ':page',
+    component: PageComponent,
+  },
+  {
+    path: 'posts/:name',
+    component: PostsComponent,
+  },
 ];
 
-
 @NgModule({
-    imports: [RouterModule.forRoot(routes)],
-    exports: [RouterModule]
+  imports: [RouterModule.forRoot(routes, { useHash: false })],
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
