@@ -27,4 +27,4 @@ Vi försöker fylla bilarna och delar på bränslekostnader – diskutera direkt
 Vill du hellre ta dig direkt till klättringen? Här är nålen till platsen <a href="https://maps.app.goo.gl/59ZU3jc4pXuRuwdQ6" target="_blank">Google Maps</a>
 
 **Event** \
-Facebook-eventet hittar du här <a href="https://fb.me/e/37jRbfRNS" target="_blank">Facebook Event</a>
+Facebook-eventet hittar du här <a href="https://www.facebook.com/events/1002508428259010" target="_blank">Facebook Event</a>
