@@ -5,46 +5,47 @@ page: kurser
 
 # Kurser och träning
 
-Sugen på att börja klättra?
+För att börja träna klättring finns det några alternativ
 
-Kanske någon av våra grupper kan vara något för dig då?
+- Barngrupp (8-12 år)
+- Ungdomsgrupp (13-15 år)
+- Träningskvällar (Vuxen)
 
-Terminen kostar 695kr.
+> Alla kurser samt träningkvällarna kräver inträde på Dome - engångsentré eller halv/hel-årskort.
 
-Anmälan görs här genom mail.
+Inträde på Dome med entré eller kort betyder att man får nyttja hela arenan, även utanför klättringens träninstider.
 
-Det är krav på att deltagarna har ett halv (1595kr) eller helårskort (2595kr) på Dome. Detta betyder att man får vara på Dome även utanför träningstider.
+## Priser och medlemskap
 
-Detta pris gäller om man är medlem i Gästrike klätterklubb där medlemskapet kostar 650kr. Annars är priset det dubbla för halv och helårskort på Dome.
+Pris och information om hur man blir medlem i Gästrike klätterklubb finner du här på sidan [Medlemskap](./medlemskap).
 
-Medlemskap i klubben gäller för ett kalenderår.
+## Träningsgrupper
 
-Information om hur man blir medlem i Gästrike klätterklubb finner du här på sidan [Medlemskap](./medlemskap).
+**Barngrupp (8-12 år)**
+
+Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer.
+
+**När:** 1 gång/veckan, fr.o.m 2025-08-29 (måndagar), kl 18-19. 12 tillfällen med två instruktörer.\
+**Kostnad:** 695kr/termin\
+**Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
+
+**Ungdomsgrupp (13-15 år)**
+
+Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter erfarenhet behov och nivå. I kursen ingår teknikträning, säkerhetsgenomgångar, träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
+
+**När:** 1 gång/veckan, fr.o.m 2025-09-02 (torsdagar), kl 17:30-19:00. 12 tillfällen.\
+**Kostnad:** 695kr/termin\
+**Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
+
+**Träningskvällar (Vuxen)**
+
+Träning på eget initiativ, men tillsammans med andra klättrare. Mer info på [Träningskvällar](./traningskvallar)
 
 **Grönt kort**
 
 Vi sätter säkerheten först och erbjuder därför möjlighet att ta grönt kort där du lär dig de säkerhetsmässiga grunderna kring utrustning, säkring och kamrat-kontroll. Läs mer om det och anmäl dig på våran sida om <a href="/posts/Kurs Grönt kort">Grönt kort</a>
 
 Mer information finns även på sidan <a href="https://www.klatterforbundet.se/utbildning/gront-och-rott-kort/" target="_blank">klätterförbundet</a>
-
-
-**Ungdomsgrupp (13-15 år)**
-
-Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter erfarenhet behov och nivå. I kursen ingår teknikträning, säkerhetsgenomgångar, träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
-
-**När:** 1 gång/veckan, fr.o.m 2024-02-15 (torsdagar), kl 17:30-19:00. 12 tillfällen.\
-**Kostnad:** 695kr/termin kolla krav från Dome ovan.\
-**Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
-
-**Barngrupp (8-12 år)**
-
-Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer.
-
-**När:** 1 gång/veckan, fr.o.m 2024-02-12 (måndagar), kl 18-19. 12 tillfällen med två instruktörer.\
-**Kostnad:** 695kr/termin kolla krav från Dome ovan.\
-**Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
-
-Hitta mer information på hemsidan för <a href="https://www.thedome.se/" target="_blank">Dome</a>.
 
 **Studentrabatt**
 
