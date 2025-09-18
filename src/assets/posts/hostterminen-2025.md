@@ -8,10 +8,11 @@ page: index
 
 # Information inför Höstterminen 2025:
 
-Höstterminen börjar vecka 40 och är 12 tillfällen.
+Höstterminen börjar vecka 40 och är 11 tillfällen.
 
 V. 40: Terminsstart\
-V. 51 Sista träningen för terminen
+v. 44: Uppehåll (Höstlov)\
+V. 51: Sista träningen för terminen
 
 Barngruppen 8-12 år kör måndagar 18:00-19:00\
 Ungdomsgruppen 13-15 år kör Torsdagar 17:30-19:00\
