@@ -25,7 +25,7 @@ Pris och information om hur man blir medlem i Gästrike klätterklubb finner du 
 
 Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer.
 
-**När:** 1 gång/veckan, fr.o.m 2025-09-29 (måndagar), kl 18-19. 12 tillfällen med två instruktörer.\
+**När:** 1 gång/veckan, fr.o.m 2025-09-29 (måndagar), kl 18-19. 11 tillfällen med två instruktörer.\
 **Kostnad:** 695kr/termin\
 **Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
 
@@ -33,7 +33,7 @@ Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer.
 
 Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter erfarenhet behov och nivå. I kursen ingår teknikträning, säkerhetsgenomgångar, träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
 
-**När:** 1 gång/veckan, fr.o.m 2025-10-02 (torsdagar), kl 17:30-19:00. 12 tillfällen.\
+**När:** 1 gång/veckan, fr.o.m 2025-10-02 (torsdagar), kl 17:30-19:00. 11 tillfällen.\
 **Kostnad:** 695kr/termin\
 **Anmälan:** Skicka mail till `bokning.gastrikekk@gmail.com`
 
