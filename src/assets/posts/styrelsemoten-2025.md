@@ -13,3 +13,4 @@ Styrelsemöten 2025
 - <a href="./assets/files/styrelsemoten-2025/20250115.pdf" target="_blank">20250115.pdf</a>
 - <a href="./assets/files/styrelsemoten-2025/20250225.pdf" target="_blank">20250225.pdf</a>
 - <a href="./assets/files/styrelsemoten-2025/20250423.pdf" target="_blank">20250423.pdf</a>
+- <a href="./assets/files/styrelsemoten-2025/20250916.pdf" target="_blank">20250916.pdf</a>
