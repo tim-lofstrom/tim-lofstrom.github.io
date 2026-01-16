@@ -11657,5 +11657,7 @@ markdown thead th {
 }
 
 .min-width-table {
-  min-width: 470px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
