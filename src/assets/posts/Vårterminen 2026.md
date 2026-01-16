@@ -18,8 +18,5 @@ Vårtermin börjar V.6 och är 12 tillfällen. Schema och anmälan finns på [Ku
 
 Vid frågor om kurserna finns vi på mail `bokning.gastrikekk@gmail.com`
 
-**Betalning** \
-Skickas till Gästrike Klätterklubb med Swish-nummer: `1234170783`
-
 Hälsningar,\
 Tim Löfström
