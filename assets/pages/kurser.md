@@ -8,7 +8,7 @@ page: kurser
 För att börja träna klättring finns det några alternativ
 
 - Barngrupp (8-12 år)
-- Ungdomsgrupp (13-15 år)
+- Ungdomsgrupp (13+ år)
 - Träningskvällar (Vuxen)
 
 > Alla kurser samt träningkvällarna kräver inträde på Dome - engångsentré eller halv/hel-årskort.
@@ -55,7 +55,7 @@ Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer. All utrustn
 **Anmälan:** Anmälan sker genom <a href="https://forms.gle/rXRyVjBrLTy5NaYr6" target="_blank">Google Forms (Klicka här)</a>\
 **Vid frågor:** Skicka mail till `bokning.gastrikekk@gmail.com`
 
-**Ungdomsgrupp (13-15 år)**
+**Ungdomsgrupp (13+ år)**
 
 Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter erfarenhet behov och nivå. I kursen ingår teknikträning, säkerhetsgenomgångar, träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
 
