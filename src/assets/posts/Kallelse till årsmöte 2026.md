@@ -1,23 +1,30 @@
-Kallelse till GKKs årmöte
+---
+name: Jesper
+title: Årsmöte 2026
+subtitle: Kallelse till GKKs årmöte
+date: "2026-01-16"
+page: index
+---
 
-Går av stapeln klockan 13:00 den 8:e februari. 
+# Kallelse till GKKs årmöte
 
-Mötet hålls i konferensrummet på Dome. 
+Går av stapeln klockan 13:00 den 8:e februari.
 
-Fika kommer finnas för förtäring. 
+Mötet hålls i konferensrummet på Dome.
 
-Här kan alla medlemmar vara delaktig och forma klubbens framtid. 
+Fika kommer finnas för förtäring.
 
-Är det något ni önskar ta upp så skickar ni era punkter till  Jesper Bäckman
-(jesp.beckman@gmail.com). 
+Här kan alla medlemmar vara delaktig och forma klubbens framtid.
 
-Efter mötet hålls vårat årliga Klubbmästerskap i bouldering där fina priser lottas ut. 
+Är det något ni önskar ta upp så skickar ni era punkter till Jesper Bäckman
+(jesp.beckman@gmail.com).
+
+Efter mötet hålls vårat årliga Klubbmästerskap i bouldering där fina priser lottas ut.
 
 Preliminär dagordning:
 
 Dagordning till årsmöte, Gästrike klätterklubb 2026
 2026-02-08
-
 
 - Mötet öppnas
 - Val av mötes-:
@@ -50,9 +57,9 @@ Dagordning till årsmöte, Gästrike klätterklubb 2026
 - Övriga punkter
 - Mötet avslutas
 
-Hjärtligt välkomna alla nya som gamla medlemmar. 
+Hjärtligt välkomna alla nya som gamla medlemmar.
 
-Vi ser framemot att se er alla samlade. 
+Vi ser framemot att se er alla samlade.
 
-Lev gott, 
+Lev gott,
 Styrelsen
