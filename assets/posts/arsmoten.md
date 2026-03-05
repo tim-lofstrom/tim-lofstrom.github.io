@@ -10,6 +10,7 @@ page: dokument
 
 Årsmöten
 
+- <a href="./assets/files/arsmoten/Arsmote-2026.pdf" target="_blank">Arsmote-2026.pdf</a>
 - <a href="./assets/files/arsmoten/Arsmote-2025.pdf" target="_blank">Arsmote-2025.pdf</a>
 - <a href="./assets/files/arsmoten/Arsmote-2024.pdf" target="_blank">Arsmote-2024.pdf</a>
 - <a href="./assets/files/arsmoten/Arsmote-2023.pdf" target="_blank">Arsmote-2023.pdf</a>
