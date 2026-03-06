@@ -10,14 +10,14 @@ page: kontakt
 **Kontaktinformation**
 
 **Namn:** Gästrike Klätterklubb\
-**Postadress**: GÄVLE\
-**E-post:** `gastrikekk@gmail.com`\
+**Postadress**: Gävle\
+**E-post:** `info@gastrikekk.se`\
 **Orgnr:** 802418-8990
 
 > Styrelsen består av
 
 **Orförande**\
-Jesper Bäckman
+Tim Löfström
 
 **Sekreterare**\
 Sandra Carlén
@@ -26,19 +26,16 @@ Sandra Carlén
 Daniel Lindh
 
 **Ledamot**\
-Tim Löfström
+Mattias Lundgren
 
 **Ledamot**\
-Ivana Bumbaroska
+Martin Bergström
 
 **Ledamot**\
 Jasmine Larsson
 
 **Suppleant**\
-Mattias Lundgren
+Linus Bergström
 
 **Suppleant**\
-Mee Dahlström
-
-**Suppleant**\
-Martin Bergström
+Micael Andersson
