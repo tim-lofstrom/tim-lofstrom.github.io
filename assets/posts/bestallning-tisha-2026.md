@@ -8,7 +8,7 @@ page: index
 
 # Beställning av t-shirt, linne eller hoodie
 
-Nu kan du beställa t-shirt eller linne med ett snyggt GKK tryck, årets färg 2025 är svart eller vit. T-shirt/linne kommer ha brösttryck och ryggtryck.
+Nu kan du beställa t-shirt eller linne med ett snyggt GKK tryck, färgen är svart eller vit. T-shirt/linne kommer ha brösttryck och ryggtryck.
 
 ## Hoodie - Vuxen
 
