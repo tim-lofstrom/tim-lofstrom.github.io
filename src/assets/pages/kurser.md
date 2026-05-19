@@ -21,29 +21,6 @@ Pris och information om hur man blir medlem i Gästrike klätterklubb finner du 
 
 ## Träningsgrupper
 
-**Schema VT 2026 (Barn och Ungdomsgrupp)**
-
-<div class="min-width-table">
-
-| Vecka |     Måndag     |    Torsdag     |   Kommentar   |
-| :---: | :------------: | :------------: | :-----------: |
-| V.06  |   2026-02-02   |   2026-02-05   |  Uppstart ✅  |
-| V.07  |   2026-02-09   |   2026-02-12   |               |
-| V.08  |   2026-02-16   |   2026-02-19   |               |
-| V.09  | ~~2026-02-23~~ | ~~2026-02-26~~ |  Uppehåll 🚫  |
-| V.10  |   2026-03-02   |   2026-03-05   |               |
-| V.11  |   2026-03-09   |   2026-03-12   |               |
-| V.12  |   2026-03-16   |   2026-03-19   |               |
-| V.13  |   2026-03-23   |   2026-03-26   |               |
-| V.14  |   2026-03-30   |   2026-04-02   |               |
-| V.15  | ~~2026-04-06~~ | ~~2026-04-09~~ |  Uppehåll 🚫  |
-| V.16  |   2026-04-13   |   2026-04-16   |               |
-| V.17  |   2026-04-20   |   2026-04-23   |               |
-| V.18  |   2026-04-27   |   2026-04-30   |               |
-| V.19  |   2026-05-04   |   2026-05-07   | Avslutning 🏁 |
-
-</div>
-
 **Barngrupp (8-12 år)**
 
 Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer. All utrustning du behöver ingår i kursen.
@@ -53,7 +30,7 @@ Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer. All utrustn
 **Antal:** 12 tillfällen\
 **Kostnad:** 695kr/termin\
 **Anmälan:** Anmälan sker genom <a href="https://forms.gle/rXRyVjBrLTy5NaYr6" target="_blank">Google Forms (Klicka här)</a>\
-**Vid frågor:** Skicka mail till `bokning.gastrikekk@gmail.com`
+**Vid frågor:** Skicka mail till `info@gastrikekk.se`
 
 **Ungdomsgrupp (13+ år)**
 
@@ -64,7 +41,7 @@ Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter 
 **Antal:** 12 tillfällen.\
 **Kostnad:** 695kr/termin\
 **Anmälan:** Anmälan sker genom <a href="https://forms.gle/3C9CtHUL7C4mBGkHA" target="_blank">Google Forms (Klicka här)</a>\
-**Vid frågor:** Skicka mail till `bokning.gastrikekk@gmail.com`
+**Vid frågor:** Skicka mail till `info@gastrikekk.se`
 
 **Träningskvällar (Vuxen)**
 

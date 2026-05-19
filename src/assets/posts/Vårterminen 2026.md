@@ -16,7 +16,7 @@ Vårtermin börjar V.6 och är 12 tillfällen. Schema och anmälan finns på [Ku
 **Ungdomsgrupp (13+ år)**\
 <a href="https://forms.gle/3C9CtHUL7C4mBGkHA" target="_blank">Google Forms (Klicka här)</a>
 
-Vid frågor om kurserna finns vi på mail `bokning.gastrikekk@gmail.com`
+Vid frågor om kurserna finns vi på mail `info@gastrikekk.se`
 
 Hälsningar,\
 Tim Löfström

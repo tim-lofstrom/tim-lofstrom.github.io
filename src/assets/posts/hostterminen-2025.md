@@ -19,7 +19,7 @@ Ungdomsgruppen 13-15 år kör Torsdagar 17:30-19:00\
 Terminen kostar 695kr. \
 Betalas in till samma Swishnummer som årsmedlemskapet: `1234170783`
 
-Anmälan görs genom mail: `bokning.gastrikekk@gmail.com`
+Anmälan görs genom mail: `info@gastrikekk.se`
 
 Det är krav på att deltagarna har ett halv eller helårskort på Dome. Detta betyder att man får vara på Dome även utanför träningstider. Detta betalas till Dome på plats. Priser och medlemskap finner du på sidan [Medlemskap](./medlemskap).
 
