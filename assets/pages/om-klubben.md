@@ -4,7 +4,7 @@ page: om-klubben
 navbar: Information
 ---
 
-# Om Gästrike KK
+# Om Gästrike Klätterklubb
 
 Klätterklubben är en ideell förening och har funnits i över 30 år. Vi främjar alla typer av klättring, allt från boulder till alpin.
 

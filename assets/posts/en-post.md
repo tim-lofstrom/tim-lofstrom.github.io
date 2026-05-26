@@ -1,7 +1,7 @@
 ---
 name: Tim Löfström
 title: Ny hemsida
-subtitle: Gästrike KK driftsätter nu en ny hemsida på vår egen domän
+subtitle: Gästrike Klätterklubb driftsätter nu en ny hemsida på vår egen domän
 date: "2023-03-11"
 page: index
 ---
