@@ -1,4 +1,4 @@
-# Gästrike KK
+# Gästrike Klätterklubb
 
 Denna hemsida är för Gästrike Klätterklubb.
 
@@ -11,7 +11,6 @@ Uppdatera innehåll:
 ## Local development
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
-
 
 ## Lägga till en post
 
