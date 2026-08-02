@@ -29,7 +29,6 @@ Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer. All utrustn
 **Tid:** kl 18.00-19.00\
 **Antal:** 12 tillfällen\
 **Kostnad:** 695kr/termin\
-**Anmälan:** Anmälan sker genom <a href="https://forms.gle/rXRyVjBrLTy5NaYr6" target="_blank">Google Forms (Klicka här)</a>\
 **Vid frågor:** Skicka mail till `info@gastrikekk.se`
 
 **Ungdomsgrupp (13+ år)**
@@ -40,7 +39,6 @@ Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter 
 **Tid:** kl 17:30-19:00 \
 **Antal:** 12 tillfällen.\
 **Kostnad:** 695kr/termin\
-**Anmälan:** Anmälan sker genom <a href="https://forms.gle/3C9CtHUL7C4mBGkHA" target="_blank">Google Forms (Klicka här)</a>\
 **Vid frågor:** Skicka mail till `info@gastrikekk.se`
 
 **Träningskvällar (Vuxen)**
