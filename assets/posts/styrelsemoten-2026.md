@@ -13,3 +13,4 @@ Styrelsemöten 2026
 - <a href="./assets/files/styrelsemoten-2026/20260204.pdf" target="_blank">20260204.pdf</a>
 - <a href="./assets/files/styrelsemoten-2026/20260303.pdf" target="_blank">20260303.pdf</a>
 - <a href="./assets/files/styrelsemoten-2026/20260512.pdf" target="_blank">20260512.pdf</a>
+- <a href="./assets/files/styrelsemoten-2026/20260818.pdf" target="_blank">20260818.pdf</a>
