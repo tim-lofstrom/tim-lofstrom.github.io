@@ -3,7 +3,7 @@ name: Tim Löfström
 title: ht2026
 subtitle: Information inför höstterminen 2026
 date: "2026-08-02"
-page: not_set
+page: index
 ---
 
 # Höstterminen 2026
@@ -104,7 +104,7 @@ Höstterminen börjar V.39 och är 12 tillfällen. Schema och anmälan finns ned
 **Barngrupp (8-12)**\
 <a href="https://forms.gle/joPYcrzooESmK5ic7" target="_blank">Google Forms (Klicka här)</a>
 
-**Ungdomsgrupp (13+ år)**\
+**Ungdomsgrupp (13+ år) - FULLT**\
 <a href="https://forms.gle/TnQiYKABPpDZaZBSA" target="_blank">Google Forms (Klicka här)</a>
 
 Vid frågor om kurserna finns vi på mail `info@gastrikekk.se`
