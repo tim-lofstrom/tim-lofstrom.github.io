@@ -1,6 +1,6 @@
 ---
 name: Tim Löfström
-title: ht2026
+title: Höstterminen 2026
 subtitle: Information inför höstterminen 2026
 date: "2026-08-02"
 page: index
