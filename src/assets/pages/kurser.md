@@ -21,25 +21,29 @@ Pris och information om hur man blir medlem i Gästrike klätterklubb finner du 
 
 ## Träningsgrupper
 
-**Barngrupp (8-12 år)**
+**Barngrupp (8–12 år)**
 
-Riktar sig till barn 8-12 år och hålls av GKKs egna instruktörer. All utrustning du behöver ingår i kursen.
+Barngruppen riktar sig till barn mellan 8 och 12 år och leds av GKK:s tränare. Träningen innehåller klättring, teknik och övningar anpassade efter gruppen. All klätterutrustning som behövs under träningen finns att låna.
 
-**När:** 1 gång/veckan, fr.o.m Vecka 6 (måndagar)\
-**Tid:** kl 18.00-19.00\
+**När:** Måndagar, med start vecka 39 (21 september)\
+**Tid:** kl. 18.00–19.00\
 **Antal:** 12 tillfällen\
-**Kostnad:** 695kr/termin\
-**Vid frågor:** Skicka mail till `info@gastrikekk.se`
+**Kostnad:** 695 kr/termin\
+**Vid frågor:** Skicka mail till `info@gastrikekk.se`\
+
+[Schema för höstterminen 2026](https://gastrikekk.se/posts/hostterminen-2026)
 
 **Ungdomsgrupp (13+ år)**
 
-Riktar sig till ungdomar som vill börja klättra. Kursen kommer anpassas efter erfarenhet behov och nivå. I kursen ingår teknikträning, säkerhetsgenomgångar, träningstips mm. Du får lära dig både bouldering och toppsrepsklättring. All utrustning du behöver ingår i kursen.
+Ungdomsgruppen riktar sig till ungdomar från 13 år. Träningen anpassas efter gruppens erfarenhet och nivå och innehåller bland annat teknik, säkerhet och olika former av klätterträning. All klätterutrustning som behövs under träningen finns att låna.
 
-**När:** 1 gång/veckan, fr.o.m Vecka 6 (torsdagar)\
-**Tid:** kl 17:30-19:00 \
-**Antal:** 12 tillfällen.\
-**Kostnad:** 695kr/termin\
-**Vid frågor:** Skicka mail till `info@gastrikekk.se`
+**När:** Torsdagar, med start vecka 39 (24 september)\
+**Tid:** kl. 17.30–19.00\
+**Antal:** 12 tillfällen\
+**Kostnad:** 695 kr/termin\
+**Vid frågor:** Skicka mail till `info@gastrikekk.se`\
+
+[Schema för höstterminen 2026](https://gastrikekk.se/posts/hostterminen-2026)
 
 **Träningskvällar (Vuxen)**
 
