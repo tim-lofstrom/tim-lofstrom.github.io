@@ -29,7 +29,7 @@ Barngruppen riktar sig till barn mellan 8 och 12 år och leds av GKK:s tränare.
 **Tid:** kl. 18.00–19.00\
 **Antal:** 12 tillfällen\
 **Kostnad:** 695 kr/termin\
-**Vid frågor:** Skicka mail till `info@gastrikekk.se`\
+**Vid frågor:** Skicka mail till `info@gastrikekk.se`
 
 [Schema för höstterminen 2026](https://gastrikekk.se/posts/hostterminen-2026)
 
@@ -41,7 +41,7 @@ Ungdomsgruppen riktar sig till ungdomar från 13 år. Träningen anpassas efter 
 **Tid:** kl. 17.30–19.00\
 **Antal:** 12 tillfällen\
 **Kostnad:** 695 kr/termin\
-**Vid frågor:** Skicka mail till `info@gastrikekk.se`\
+**Vid frågor:** Skicka mail till `info@gastrikekk.se`
 
 [Schema för höstterminen 2026](https://gastrikekk.se/posts/hostterminen-2026)
 
