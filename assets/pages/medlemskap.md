@@ -11,12 +11,9 @@ Medlemsavgiften är `650kr` för ett kalenderår.
 
 I medlemskapet ingår
 
-- Klätterförsäkring
-- Medlemskap i Svenska Klätterförbundet inklusive deras olycksfallsförsäkring
+- Medlemskap i Svenska Klätterförbundet inklusive olycksfallsförsäkring
 - Tidningen Bergsport som utkommer fyra gånger per år
-- `50%` på Domes årskort
-- `25%` rabatt på Domes engångsentré
-- `50%` rabatt på alla Domes egna kurser (Om man har löst årskort hos Dome)
+- Förmånliga priser hos Dome
 
 ### Betalning av medlemsavgiften
 
@@ -29,13 +26,11 @@ Betalningen märks med personnummer.
 
 Medlemskap i Gästrike Klätterklubb gäller per kalenderår och ska betalas senast 27/2.
 
-**Tänk på att man kan gå miste om olycksfallsförsäkringen, Bergsport samt Dome-rabatterna om man inte förnyar sitt medlemskap i tid.**
-
-Eftersom medlemsskapet gäller per kalenderår ger GKK rabatt på avgiften om man blir medlem sent på året, från september och framåt är avgiften `350kr`. Detta gäller med förutsättningen att man samtidigt betalar kommande års medemsavgift. Totalt `650kr + 350kr = 1000kr`.
+Från september kan du bli medlem för `350kr` för resten av året, under förutsättning att du samtidigt betalar medlemsavgiften för kommande år. Totalt blir avgiften `1000kr`.
 
 För en godkänd betalning av medlemsskap skall följande uppgifter skickas in till `info@gastrikekk.se`
 
-> Namn \
+> Namn\
 > Adress\
 > Telefonnummer\
 > E-postadress\
@@ -44,7 +39,7 @@ För en godkänd betalning av medlemsskap skall följande uppgifter skickas in t
 
 Samtyckesblanketten behöver bara fyllas i en gång och kan laddas ner här
 
-> <a href="/assets/files/styrdokument/Samtyckesblankett.pdf" target="_blank">Samtyckesblankett.pdf</a>.
+> <a href="/assets/files/styrdokument/Samtyckesblankett.pdf" target="_blank">Samtyckesblankett.pdf</a>
 
 Ta en bild av den påskrivna blanketten och skicka via mail till `info@gastrikekk.se`.
 
@@ -52,39 +47,30 @@ Observera att det kan ta någon dag mellan att du har betalat avgiften till GKK 
 
 ### Rabatt hos Dome
 
-Som medlem får du rabatt på Dome-priser enligt ovan. **Observera att alla kostnader för årskort och entré görs direkt till <a href="https://www.thedome.se/" target="_blank">Dome</a>!**
+Som medlem i GKK får du köpa års- och halvårskort till rabatterade priser hos Dome. **Observera att alla kostnader för årskort och halvårskort betalas direkt till <a href="[https://www.thedome.se/](https://www.thedome.se/)" target="_blank">Dome</a>!**
+
+Årskort och halvårskort
+
+- Årskort `2750kr`, giltigt i 12 månader från inköpsdatum
+- Halvårskort `1750kr`, giltigt i 6 månader från inköpsdatum
 
 Prisexempel, GKK-medlemskap samt årskort
 
-- `650kr` (GKK) + `2795kr` (Dome) = `3445kr` totalt per år
-- Halvårskort
-  `650kr` (GKK) + `1695kr` (Dome) =`2345kr`
+- `650kr` (GKK) + `2750kr` (Dome) = `3400kr` totalt
 
-Prisexempel, GKK-medlemskap samt engångsentré
+Prisexempel, GKK-medlemskap samt halvårskort
 
-- Medlemskap `650kr` (GKK) +
-- 2 timmar `164 kr`\
-- 4 timmar `329 kr`\
-- Heldag `269 kr`\
+- `650kr` (GKK) + `1750kr` (Dome) = `2400kr` totalt
 
-Köp av årskort/engångsentré ger tillgång till hela arenan och inte bara till klätterdelen.
+Köp av årskort eller halvårskort ger tillgång till hela arenan och inte bara till klätterdelen.
 
-Årskort ger även `20%` rabatt på mat och dryck i kafeterian.
+### Prova-på-klättring
 
-### Familjerabatt
+I samband med GKK:s klubbkvällar kan nya deltagare prova på klättring till rabatterat entrépris:
 
-Om fyra personer ur en familj blir medlem (vuxen eller barn) ges möjlighet till extra rabatterade årskort.
-I dessa fall betalar två personer ordinare pris (2795kr/person) och övriga familjemedlemmar endast 1000 kr/person.
+- 2 timmar `140kr`
 
-_Exempel:_ \
-Familj 4 personer\
-4st Medlem á 650kr (GKK) = 2600kr\
-Årskort 1 (Dome) = 2795kr \
-Årskort 2 (Dome) = 2795kr \
-Årskort 3 (Dome barn) = 1000kr\
-Årskort 4 (Dome barn) = 1000kr\
-\
-Totalt: `10190kr`
+Prova-på-priset kan användas vid högst två tillfällen per person.
 
 ## Kurser
 
