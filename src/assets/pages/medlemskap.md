@@ -47,7 +47,7 @@ Observera att det kan ta någon dag mellan att du har betalat avgiften till GKK 
 
 ### Rabatt hos Dome
 
-Som medlem i GKK får du köpa års- och halvårskort till rabatterade priser hos Dome. **Observera att alla kostnader för årskort och halvårskort betalas direkt till <a href="[https://www.thedome.se/](https://www.thedome.se/)" target="_blank">Dome</a>!**
+Som medlem i GKK får du köpa års- och halvårskort till rabatterade priser hos Dome. **Observera att alla kostnader för årskort och halvårskort betalas direkt till <a href="https://www.thedome.se/" target="_blank">Dome</a>!**
 
 Årskort och halvårskort
 
